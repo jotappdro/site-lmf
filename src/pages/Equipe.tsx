@@ -64,7 +64,8 @@ const Equipe = () => {
     {
       nome: "Bruna Almeida",
       cargo: "Pessoas",
-      foto: "lovable-uploads/fb838500-0d65-44cc-9880-998821329c95.png"
+      foto: "lovable-uploads/fb838500-0d65-44cc-9880-998821329c95.png",
+      linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
     },
     {
       nome: "Carlos Eduardo Fragozo",
@@ -75,7 +76,8 @@ const Equipe = () => {
     {
       nome: "Carolina Freitas",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png"
+      foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png",
+      linkedin: "https://www.linkedin.com/in/carolina-lorena-freitas-423863364/"
     },
     {
       nome: "Felipe Pires",
@@ -86,47 +88,56 @@ const Equipe = () => {
     {
       nome: "Gabriela Musa",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/737a2244-61e5-4ec5-b165-48bf245f30aa.png"
+      foto: "lovable-uploads/737a2244-61e5-4ec5-b165-48bf245f30aa.png",
+      linkedin: "https://www.linkedin.com/in/gabriela-musa-367174368/"
     },
     {
       nome: "Guilherme Caruso",
       cargo: "Pessoas",
-      foto: "lovable-uploads/ab9ff390-7468-4e32-8d85-276c19adf060.png"
+      foto: "lovable-uploads/ab9ff390-7468-4e32-8d85-276c19adf060.png",
+      linkedin: "https://www.linkedin.com/in/guilherme-rh-caruso/"
     },
     {
-      nome: "Guilherme Nigri",
+      nome: "Gustavo Nigri",
       cargo: "Eventos",
-      foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png"
+      foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png",
+      linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
     },
     {
       nome: "Gustavo Geller",
       cargo: "Eventos",
-      foto: "lovable-uploads/a55f8812-8aa2-4fa0-a1eb-83e21c4fad18.png"
+      foto: "lovable-uploads/a55f8812-8aa2-4fa0-a1eb-83e21c4fad18.png",
+      linkedin: "https://www.linkedin.com/in/gustavo-kallmann-geller-861a70226/"
     },
     {
       nome: "Gustavo Levy",
       cargo: "Pessoas",
-      foto: "lovable-uploads/46cc0fae-64e6-4c84-9dc1-96fa3d454d3b.png"
+      foto: "lovable-uploads/46cc0fae-64e6-4c84-9dc1-96fa3d454d3b.png",
+      linkedin: "https://www.linkedin.com/in/gustavo-levy-00366035b/"
     },
     {
       nome: "Iann Soffried",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/cb4d6776-313a-4c15-9473-2b66fee20c7f.png"
+      foto: "lovable-uploads/cb4d6776-313a-4c15-9473-2b66fee20c7f.png",
+      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
     },
     {
       nome: "Pedro Cafasso",
       cargo: "Competições",
-      foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png"
+      foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
+      linkedin: "https://www.linkedin.com/in/pedro-antonio-cafasso-a0b7391bb/"
     },
     {
       nome: "Pedro Kottler",
       cargo: "Competições",
-      foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png"
+      foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
+      linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
     },
     {
       nome: "Pedro Svartman",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png"
+      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png",
+      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
     },
     {
       nome: "Thiago Nasseh",
@@ -137,7 +148,8 @@ const Equipe = () => {
     {
       nome: "Victor Messer",
       cargo: "Pessoas",
-      foto: "lovable-uploads/1f5ed056-58fd-45b5-9b65-adb76e2f40dd.png"
+      foto: "lovable-uploads/1f5ed056-58fd-45b5-9b65-adb76e2f40dd.png",
+      linkedin: "https://www.linkedin.com/in/victor-messer-678463369/"
     }
   ];
 
