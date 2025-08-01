@@ -75,7 +75,7 @@ const BlogCarousel = () => {
           {/* Carousel Container */}
           <div className="relative">
             {/* Cards Grid */}
-            <div className="grid md:grid-cols-2 gap-6">
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
               {getVisiblePosts().map((post, index) => (
                 <div key={`${post.id}-${index}`} className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
                   {/* Image */}
@@ -115,20 +115,22 @@ const BlogCarousel = () => {
               ))}
             </div>
 
-            {/* Navigation Arrows */}
-            <button
-              onClick={prevSlide}
-              className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 w-10 h-10 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-colors duration-200"
-            >
-              <ChevronLeft className="w-5 h-5 text-gray-600" />
-            </button>
+            {/* Navigation Arrows - Centered below */}
+            <div className="flex justify-center items-center gap-4">
+              <button
+                onClick={prevSlide}
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-colors duration-200"
+              >
+                <ChevronLeft className="w-6 h-6 text-gray-600" />
+              </button>
 
-            <button
-              onClick={nextSlide}
-              className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 w-10 h-10 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-colors duration-200"
-            >
-              <ChevronRight className="w-5 h-5 text-gray-600" />
-            </button>
+              <button
+                onClick={nextSlide}
+                className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-colors duration-200"
+              >
+                <ChevronRight className="w-6 h-6 text-gray-600" />
+              </button>
+            </div>
           </div>
 
         </div>
