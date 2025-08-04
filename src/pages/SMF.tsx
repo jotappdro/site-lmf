@@ -54,11 +54,13 @@ const SMF = () => {
         <section className="py-20 bg-white">
           <div className="container mx-auto px-6">
             <div className="max-w-4xl mx-auto text-center">
-              {/* Logo SMF 2025 - Placeholder */}
+              {/* Logo SMF 2025 */}
               <div className="mb-12">
-                <div className="w-64 h-32 mx-auto bg-gray-200 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-400">
-                  <span className="text-gray-500 font-semibold">Logo SMF 2025</span>
-                </div>
+                <img 
+                  src="/lovable-uploads/c4e76c4f-8b72-424a-bc75-e18aa5234fa3.png"
+                  alt="SMF 2025 Logo"
+                  className="mx-auto h-32 object-contain"
+                />
               </div>
 
               {/* Patrocinadores */}
