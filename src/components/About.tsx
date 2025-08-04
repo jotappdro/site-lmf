@@ -210,7 +210,7 @@ const About = () => {
               <p className="text-gray-600 text-lg leading-relaxed text-justify mb-4">
                 Fundada em 2015, a Liga de Mercado Financeiro PUC-Rio tem como propósito atuar como uma ponte entre o meio acadêmico e o mercado financeiro, aproximando os estudantes da vivência prática dessa carreira. Desde então, temos consolidado uma sólida relação com o mercado, evidenciada por visitas a instituições financeiras, participação em competições e organização de eventos com renomados profissionais da área.
               </p>
-              <p className="text-gray-600 text-lg leading-relaxed">
+              <p className="text-gray-600 text-lg leading-relaxed text-justify">
                 Por meio dessas experiências, buscamos preparar nossos associados para <span className="font-bold text-primary">identificar suas áreas de interesse</span> e <span className="font-bold text-primary">conquistar as melhores oportunidades no mercado</span>.
               </p>
             </div>

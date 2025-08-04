@@ -32,7 +32,7 @@ const Map = () => {
   return (
     <div 
       ref={mapRef} 
-      className="w-full h-full min-h-[250px] rounded-lg overflow-hidden shadow-lg"
+      className="w-full h-full min-h-[250px] md:min-h-[250px] min-h-[350px] rounded-lg overflow-hidden shadow-lg md:border-0 border-0"
     />
   );
 };
