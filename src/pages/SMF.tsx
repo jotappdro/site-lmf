@@ -112,31 +112,129 @@ const SMF = () => {
                 <div className="max-w-4xl mx-auto space-y-4">
                   {[
                     {
-                      title: "Mercado de Capitais: Perspectivas 2025",
-                      guest: "João Silva - BTG Pactual",
-                      date: "25 de Março",
-                      time: "14h às 15h30",
+                      title: "Trajetória de Carreira no Mercado Financeiro",
+                      guest: "Bruno Rudge - Sócio-Fundador da Dynamo",
+                      date: "25.08",
+                      time: "11:30",
                       link: "https://forms.gle/exemplo1"
                     },
                     {
-                      title: "Fundos Quantitativos e Inteligência Artificial",
-                      guest: "Maria Santos - Vinci Compass",
-                      date: "26 de Março", 
-                      time: "10h às 11h30",
+                      title: "Como Identificar Boas Oportunidades na Bolsa",
+                      guest: "Marcel Guetta - Sócio-Fundador da Magnus Capital",
+                      date: "25.08", 
+                      time: "14:00",
                       link: "https://forms.gle/exemplo2"
                     },
                     {
-                      title: "Private Equity no Brasil",
-                      guest: "Carlos Oliveira - Opportunity",
-                      date: "27 de Março",
-                      time: "16h às 17h30", 
+                      title: "Tendências Para a Economia Global",
+                      guest: "Ruy Alves - Sócio da Kinea Investimentos",
+                      date: "25.08",
+                      time: "17:00", 
                       link: "https://forms.gle/exemplo3"
                     },
                     {
-                      title: "Gestão de Riscos em Tempos de Incerteza",
-                      guest: "Ana Costa - Icatu Vanguarda",
-                      date: "28 de Março",
-                      time: "14h às 15h30",
+                      title: "Filosofias de Investimento no Cenário Brasileiro",
+                      guest: "Marcelo Clark - Sócio e Gestor da Sharp Capital",
+                      date: "26.08",
+                      time: "10:30",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    {
+                      title: "Gestão de Fundos Multimercado",
+                      guest: "Fernando Monteiro - Gestor de Multimercado do Bradesco Asset",
+                      date: "26.08",
+                      time: "13:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "O Macro e Micro nos Cases de Investimentos",
+                      guest: "Alexandre Silverio - Sócio-Fundador e CEO da Tenax Capital",
+                      date: "26.08",
+                      time: "16:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Painel BTG",
+                      guest: "XXXXX",
+                      date: "26.08",
+                      time: "18:30",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Perspectivas de Investimentos em Ações e Trajetória",
+                      guest: "Bruno Garcia - Sócio-Fundador e CIO da TRUXT Investimentos",
+                      date: "27.08",
+                      time: "11:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Estratégias em Crédito e Special Situations",
+                      guest: "Rafael Fritsch - Sócio-Fundador e CIO da Root Capital",
+                      date: "27.08",
+                      time: "13:30",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Carreira em Bancos de Investimentos",
+                      guest: "André Juaçaba - Vice-Presidente Executivo do Banco Santander",
+                      date: "27.08",
+                      time: "16:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "O Mercado de Ações Brasileiro",
+                      guest: "Florian Bartunek - Sócio-Fundador da Constellation Asset",
+                      date: "27.08",
+                      time: "18:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Cenário Atual do Mercado de Private Equity",
+                      guest: "Sócio Opportunity",
+                      date: "28.08",
+                      time: "10:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Desafios Para o Sistema Financeiro Nacional",
+                      guest: "Renato Gomes - Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central",
+                      date: "28.08",
+                      time: "12:30",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Oportunidades e Riscos Para o Crédito Privado",
+                      guest: "Sócio e Gestor de Crédito da Vinci Compass",
+                      date: "28.08",
+                      time: "15:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "Perspectivas Macroeconômicas no Brasil e no Mundo",
+                      guest: "Bruno Coutinho - Sócio-Fundador e Gestor da Mar Asset",
+                      date: "28.08",
+                      time: "18:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "O Futuro da Renda Fixa no Brasil",
+                      guest: "Alan Corrêa - Gestor de Crédito da Icatu Vanguarda",
+                      date: "29.08",
+                      time: "13:30",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "O Papel dos Multi-Family Offices na Gestão Patrimonial",
+                      guest: "Eduardo Gomes - Sócio da Turim Investimentos",
+                      date: "29.08",
+                      time: "16:00",
+                      link: "https://forms.gle/exemplo4"
+                    },
+                    { 
+                    title: "O Panorama Fiscal Brasileiro",
+                      guest: "José Márcio Camargo - Economista-Chefe da Genial Investimentos",
+                      date: "29.08",
+                      time: "18:30",
                       link: "https://forms.gle/exemplo4"
                     }
                   ].map((panel, index) => (
