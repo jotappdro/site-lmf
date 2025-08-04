@@ -61,15 +61,38 @@ const SMF = () => {
                 </div>
               </div>
 
-              {/* Patrocinadores - Placeholder */}
+              {/* Patrocinadores */}
               <div className="mb-12">
                 <h3 className="text-xl font-semibold text-financial-primary mb-6">Patrocinadores</h3>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-                  {[1, 2, 3, 4].map((i) => (
-                    <div key={i} className="w-full h-20 bg-gray-200 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-400">
-                      <span className="text-gray-500 text-sm">Logo {i}</span>
-                    </div>
-                  ))}
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
+                      alt="Icatu Vanguarda"
+                      className="h-8 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png`}
+                      alt="Sharp Capital"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png`}
+                      alt="TRUXT"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png`}
+                      alt="Vinci Compass"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
                 </div>
               </div>
 
@@ -81,11 +104,66 @@ const SMF = () => {
                 </p>
               </div>
 
-              {/* Programação da última SMF */}
+              {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
-                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Confira a programação da última SMF</h3>
-                <div className="w-full max-w-2xl mx-auto bg-gray-200 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-400 h-64">
-                  <span className="text-gray-500 font-semibold">Imagem da Programação SMF 2024</span>
+                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
+                <div className="max-w-4xl mx-auto space-y-4">
+                  {[
+                    {
+                      title: "Mercado de Capitais: Perspectivas 2025",
+                      guest: "João Silva - BTG Pactual",
+                      date: "25 de Março",
+                      time: "14h às 15h30",
+                      link: "https://forms.gle/exemplo1"
+                    },
+                    {
+                      title: "Fundos Quantitativos e Inteligência Artificial",
+                      guest: "Maria Santos - Vinci Compass",
+                      date: "26 de Março", 
+                      time: "10h às 11h30",
+                      link: "https://forms.gle/exemplo2"
+                    },
+                    {
+                      title: "Private Equity no Brasil",
+                      guest: "Carlos Oliveira - Opportunity",
+                      date: "27 de Março",
+                      time: "16h às 17h30", 
+                      link: "https://forms.gle/exemplo3"
+                    },
+                    {
+                      title: "Gestão de Riscos em Tempos de Incerteza",
+                      guest: "Ana Costa - Icatu Vanguarda",
+                      date: "28 de Março",
+                      time: "14h às 15h30",
+                      link: "https://forms.gle/exemplo4"
+                    }
+                  ].map((panel, index) => (
+                    <Card key={index} className="p-6 hover:shadow-lg transition-shadow">
+                      <CardContent className="p-0">
+                        <div className="flex justify-between items-center">
+                          <div className="flex-1">
+                            <h4 className="text-lg font-semibold text-financial-primary mb-2">
+                              {panel.title}
+                            </h4>
+                            <p className="text-gray-600 mb-1">{panel.guest}</p>
+                            <p className="text-sm text-gray-500">
+                              {panel.date} • {panel.time}
+                            </p>
+                          </div>
+                          <div className="ml-6">
+                            <a 
+                              href={panel.link}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            >
+                              Inscrever-se
+                            </a>
+                          </div>
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ))}
                 </div>
               </div>
             </div>
