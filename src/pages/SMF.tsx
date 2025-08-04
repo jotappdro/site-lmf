@@ -100,8 +100,8 @@ const SMF = () => {
 
               {/* Texto descritivo */}
               <div className="mb-16">
-                <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto">
-                  A Semana de Mercado Financeiro PUC-Rio é um evento totalmente gratuito que reúne renomados profissionais da área. 
+                <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-justify">
+                  A <span className="font-bold text-financial-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
                   Sua grande missão é imergir os alunos universitários no mundo das finanças, promovendo, assim, a democratização deste conhecimento.
                 </p>
               </div>
