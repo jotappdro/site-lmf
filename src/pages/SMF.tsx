@@ -63,15 +63,23 @@ const SMF = () => {
                 />
               </div>
 
-              {/* Patrocinadores */}
+              {/* Texto descritivo */}
               <div className="mb-12">
+                <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-justify">
+                  A <span className="font-bold text-financial-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
+                  Sua grande missão é imergir os alunos universitários no mundo das finanças, promovendo, assim, a democratização deste conhecimento.
+                </p>
+              </div>
+
+              {/* Patrocinadores */}
+              <div className="mb-16">
                 <h3 className="text-xl font-semibold text-financial-primary mb-6">Patrocinadores</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
                   <div className="flex items-center justify-center h-24">
                     <img 
                       src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
                       alt="Icatu Vanguarda"
-                      className="h-8 max-w-full object-contain"
+                      className="h-12 max-w-full object-contain"
                     />
                   </div>
                   <div className="flex items-center justify-center h-24">
@@ -98,14 +106,6 @@ const SMF = () => {
                 </div>
               </div>
 
-              {/* Texto descritivo */}
-              <div className="mb-16">
-                <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-justify">
-                  A <span className="font-bold text-financial-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
-                  Sua grande missão é imergir os alunos universitários no mundo das finanças, promovendo, assim, a democratização deste conhecimento.
-                </p>
-              </div>
-
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
                 <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
@@ -114,6 +114,7 @@ const SMF = () => {
                     {
                       title: "Trajetória de Carreira no Mercado Financeiro",
                       guest: "Bruno Rudge - Sócio-Fundador da Dynamo",
+                      guest2: "Segundo Convidado - Cargo/Empresa",
                       date: "25.08",
                       time: "11:30",
                       link: "https://forms.gle/exemplo1"
@@ -246,6 +247,7 @@ const SMF = () => {
                               {panel.title}
                             </h4>
                             <p className="text-gray-600 mb-1">{panel.guest}</p>
+                            {panel.guest2 && <p className="text-gray-600 mb-1">{panel.guest2}</p>}
                             <p className="text-sm text-gray-500">
                               {panel.date} • {panel.time}
                             </p>
