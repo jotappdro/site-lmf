@@ -114,7 +114,7 @@ const SMF = () => {
                     {
                       title: "Trajetória de Carreira no Mercado Financeiro",
                       guest: "Bruno Rudge - Sócio-Fundador da Dynamo",
-                      guest2: "Segundo Convidado - Cargo/Empresa",
+                      guest2: "Marcelo Mesquita - Sócio-Fundador da Leblon Equities",
                       date: "25.08",
                       time: "11:30",
                       link: "https://forms.gle/exemplo1"
@@ -122,6 +122,7 @@ const SMF = () => {
                     {
                       title: "Como Identificar Boas Oportunidades na Bolsa",
                       guest: "Marcel Guetta - Sócio-Fundador da Magnus Capital",
+                      guest2: "Phillippe Perdigão - Investidor",
                       date: "25.08", 
                       time: "14:00",
                       link: "https://forms.gle/exemplo2"
@@ -136,6 +137,7 @@ const SMF = () => {
                     {
                       title: "Filosofias de Investimento no Cenário Brasileiro",
                       guest: "Marcelo Clark - Sócio e Gestor da Sharp Capital",
+                      guest2: "Pedro Rosset - Analista da Sharp Capital",
                       date: "26.08",
                       time: "10:30",
                       link: "https://forms.gle/exemplo4"
@@ -143,6 +145,7 @@ const SMF = () => {
                     {
                       title: "Gestão de Fundos Multimercado",
                       guest: "Fernando Monteiro - Gestor de Multimercado do Bradesco Asset",
+                      guest2: "XXXXXX - Gestor de Multimercado da SPX Capital",
                       date: "26.08",
                       time: "13:00",
                       link: "https://forms.gle/exemplo4"
@@ -150,6 +153,7 @@ const SMF = () => {
                     { 
                     title: "O Macro e Micro nos Cases de Investimentos",
                       guest: "Alexandre Silverio - Sócio-Fundador e CEO da Tenax Capital",
+                      guest2: "Camilo Marcantonio - Sócio-Fundador e CIO da Charles River Capital",
                       date: "26.08",
                       time: "16:00",
                       link: "https://forms.gle/exemplo4"
@@ -164,6 +168,7 @@ const SMF = () => {
                     { 
                     title: "Perspectivas de Investimentos em Ações e Trajetória",
                       guest: "Bruno Garcia - Sócio-Fundador e CIO da TRUXT Investimentos",
+                      guest2: "Jander Medeiros - Sócio da TRUXT Investimentos",
                       date: "27.08",
                       time: "11:00",
                       link: "https://forms.gle/exemplo4"
@@ -171,6 +176,7 @@ const SMF = () => {
                     { 
                     title: "Estratégias em Crédito e Special Situations",
                       guest: "Rafael Fritsch - Sócio-Fundador e CIO da Root Capital",
+                      guest2: "Sérgio Pessoa - Gestor de Crédito da Root Capital",
                       date: "27.08",
                       time: "13:30",
                       link: "https://forms.gle/exemplo4"
@@ -185,6 +191,7 @@ const SMF = () => {
                     { 
                     title: "O Mercado de Ações Brasileiro",
                       guest: "Florian Bartunek - Sócio-Fundador da Constellation Asset",
+                      guest2: "Guilherme Aché - Sócio-Fundador da Squadra Investimentos",
                       date: "27.08",
                       time: "18:00",
                       link: "https://forms.gle/exemplo4"
@@ -192,6 +199,7 @@ const SMF = () => {
                     { 
                     title: "Cenário Atual do Mercado de Private Equity",
                       guest: "Sócio Opportunity",
+                      guest2: "Sócio HIG",
                       date: "28.08",
                       time: "10:00",
                       link: "https://forms.gle/exemplo4"
@@ -213,6 +221,7 @@ const SMF = () => {
                     { 
                     title: "Perspectivas Macroeconômicas no Brasil e no Mundo",
                       guest: "Bruno Coutinho - Sócio-Fundador e Gestor da Mar Asset",
+                      guest2: "João Landau - Sócio-Fundador e Gestor da Vista Capital",
                       date: "28.08",
                       time: "18:00",
                       link: "https://forms.gle/exemplo4"
@@ -220,6 +229,7 @@ const SMF = () => {
                     { 
                     title: "O Futuro da Renda Fixa no Brasil",
                       guest: "Alan Corrêa - Gestor de Crédito da Icatu Vanguarda",
+                      guest2: "Antonio Corrêa - Gestor de Crédito da Icatu Vanguarda",
                       date: "29.08",
                       time: "13:30",
                       link: "https://forms.gle/exemplo4"
@@ -227,6 +237,7 @@ const SMF = () => {
                     { 
                     title: "O Papel dos Multi-Family Offices na Gestão Patrimonial",
                       guest: "Eduardo Gomes - Sócio da Turim Investimentos",
+                      guest2: "Flávio Stanger - Sócio da Galapagos Capital",
                       date: "29.08",
                       time: "16:00",
                       link: "https://forms.gle/exemplo4"
@@ -234,6 +245,7 @@ const SMF = () => {
                     { 
                     title: "O Panorama Fiscal Brasileiro",
                       guest: "José Márcio Camargo - Economista-Chefe da Genial Investimentos",
+                      guest2: "Paulo Val - Economista-Chefe da Occam Brasil"
                       date: "29.08",
                       time: "18:30",
                       link: "https://forms.gle/exemplo4"
