@@ -57,7 +57,7 @@ const SMF = () => {
               {/* Logo SMF 2025 */}
               <div className="mb-12">
                 <img 
-                  src="/lovable-uploads/c4e76c4f-8b72-424a-bc75-e18aa5234fa3.png"
+                  src="lovable-uploads/c4e76c4f-8b72-424a-bc75-e18aa5234fa3.png"
                   alt="SMF 2025 Logo"
                   className="mx-auto h-32 object-contain"
                 />
