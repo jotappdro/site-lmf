@@ -245,7 +245,7 @@ const SMF = () => {
                     { 
                     title: "O Panorama Fiscal Brasileiro",
                       guest: "José Márcio Camargo - Economista-Chefe da Genial Investimentos",
-                      guest2: "Paulo Val - Economista-Chefe da Occam Brasil"
+                      guest2: "Paulo Val - Economista-Chefe da Occam Brasil",
                       date: "29.08",
                       time: "18:30",
                       link: "https://forms.gle/exemplo4"
