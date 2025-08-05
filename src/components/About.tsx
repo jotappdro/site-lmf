@@ -198,7 +198,7 @@ const About = () => {
               <img 
                 src={`${import.meta.env.BASE_URL}lovable-uploads/f8313e8f-efbf-4ebe-bfcc-36121516eaf8.png`}
                 alt="LMF PUC-Rio Logo" 
-                className="w-64 lg:w-80 h-auto"
+                className="w-80 lg:w-96 h-auto"
               />
             </div>
             
