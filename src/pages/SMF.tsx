@@ -449,7 +449,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
                           </h5>
-                          <p className="text-gray-600">Sócio e Gestor de Crédito da Vinci Compass</p>
+                          <p className="text-gray-600">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
                         </div>
                         <div className="flex-shrink-0">
                           <a 
