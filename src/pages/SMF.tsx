@@ -109,175 +109,463 @@ const SMF = () => {
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
                 <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
-                <div className="max-w-4xl mx-auto space-y-4">
-                  {[
-                    {
-                      title: "Trajetória de Carreira no Mercado Financeiro",
-                      guest: "Bruno Rudge - Sócio-Fundador da Dynamo",
-                      guest2: "Marcelo Mesquita - Sócio-Fundador da Leblon Equities",
-                      date: "25.08",
-                      time: "11:30",
-                      link: "https://forms.gle/exemplo1"
-                    },
-                    {
-                      title: "Como Identificar Boas Oportunidades na Bolsa",
-                      guest: "Marcel Guetta - Sócio-Fundador da Magnus Capital",
-                      guest2: "Phillippe Perdigão - Investidor",
-                      date: "25.08", 
-                      time: "14:00",
-                      link: "https://forms.gle/exemplo2"
-                    },
-                    {
-                      title: "Tendências Para a Economia Global",
-                      guest: "Ruy Alves - Sócio da Kinea Investimentos",
-                      date: "25.08",
-                      time: "17:00", 
-                      link: "https://forms.gle/exemplo3"
-                    },
-                    {
-                      title: "Filosofias de Investimento no Cenário Brasileiro",
-                      guest: "Marcelo Clark - Sócio e Gestor da Sharp Capital",
-                      guest2: "Pedro Rosset - Analista da Sharp Capital",
-                      date: "26.08",
-                      time: "10:30",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    {
-                      title: "Gestão de Fundos Multimercado",
-                      guest: "Fernando Monteiro - Gestor de Multimercado do Bradesco Asset",
-                      guest2: "XXXXXX - Gestor de Multimercado da SPX Capital",
-                      date: "26.08",
-                      time: "13:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "O Macro e Micro nos Cases de Investimentos",
-                      guest: "Alexandre Silverio - Sócio-Fundador e CEO da Tenax Capital",
-                      guest2: "Camilo Marcantonio - Sócio-Fundador e CIO da Charles River Capital",
-                      date: "26.08",
-                      time: "16:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Painel BTG",
-                      guest: "XXXXX",
-                      date: "26.08",
-                      time: "18:30",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Perspectivas de Investimentos em Ações e Trajetória",
-                      guest: "Bruno Garcia - Sócio-Fundador e CIO da TRUXT Investimentos",
-                      guest2: "Jander Medeiros - Sócio da TRUXT Investimentos",
-                      date: "27.08",
-                      time: "11:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Estratégias em Crédito e Special Situations",
-                      guest: "Rafael Fritsch - Sócio-Fundador e CIO da Root Capital",
-                      guest2: "Sérgio Pessoa - Gestor de Crédito da Root Capital",
-                      date: "27.08",
-                      time: "13:30",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Carreira em Bancos de Investimentos",
-                      guest: "André Juaçaba - Vice-Presidente Executivo do Banco Santander",
-                      date: "27.08",
-                      time: "16:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "O Mercado de Ações Brasileiro",
-                      guest: "Florian Bartunek - Sócio-Fundador da Constellation Asset",
-                      guest2: "Guilherme Aché - Sócio-Fundador da Squadra Investimentos",
-                      date: "27.08",
-                      time: "18:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Cenário Atual do Mercado de Private Equity",
-                      guest: "Sócio Opportunity",
-                      guest2: "Sócio HIG",
-                      date: "28.08",
-                      time: "10:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Desafios Para o Sistema Financeiro Nacional",
-                      guest: "Renato Gomes - Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central",
-                      date: "28.08",
-                      time: "12:30",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Oportunidades e Riscos Para o Crédito Privado",
-                      guest: "Sócio e Gestor de Crédito da Vinci Compass",
-                      date: "28.08",
-                      time: "15:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "Perspectivas Macroeconômicas no Brasil e no Mundo",
-                      guest: "Bruno Coutinho - Sócio-Fundador e Gestor da Mar Asset",
-                      guest2: "João Landau - Sócio-Fundador e Gestor da Vista Capital",
-                      date: "28.08",
-                      time: "18:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "O Futuro da Renda Fixa no Brasil",
-                      guest: "Alan Corrêa - Gestor de Crédito da Icatu Vanguarda",
-                      guest2: "Antonio Corrêa - Gestor de Crédito da Icatu Vanguarda",
-                      date: "29.08",
-                      time: "13:30",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "O Papel dos Multi-Family Offices na Gestão Patrimonial",
-                      guest: "Eduardo Gomes - Sócio da Turim Investimentos",
-                      guest2: "Flávio Stanger - Sócio da Galapagos Capital",
-                      date: "29.08",
-                      time: "16:00",
-                      link: "https://forms.gle/exemplo4"
-                    },
-                    { 
-                    title: "O Panorama Fiscal Brasileiro",
-                      guest: "José Márcio Camargo - Economista-Chefe da Genial Investimentos",
-                      guest2: "Paulo Val - Economista-Chefe da Occam Brasil",
-                      date: "29.08",
-                      time: "18:30",
-                      link: "https://forms.gle/exemplo4"
-                    }
-                  ].map((panel, index) => (
-                    <Card key={index} className="p-6 hover:shadow-lg transition-shadow">
-                      <CardContent className="p-0">
-                        <div className="flex justify-between items-center">
-                          <div className="flex-1">
-                            <h4 className="text-lg font-semibold text-financial-primary mb-2">
-                              {panel.title}
-                            </h4>
-                            <p className="text-gray-600 mb-1">{panel.guest}</p>
-                            {panel.guest2 && <p className="text-gray-600 mb-1">{panel.guest2}</p>}
-                            <p className="text-sm text-gray-500">
-                              {panel.date} • {panel.time}
-                            </p>
-                          </div>
-                          <div className="ml-6">
-                            <a 
-                              href={panel.link}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
-                            >
-                              Inscrever-se
-                            </a>
-                          </div>
+                <div className="max-w-4xl mx-auto space-y-8">
+                  {/* Segunda-feira (25/08) */}
+                  <div>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Segunda (25/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          11h30
                         </div>
-                      </CardContent>
-                    </Card>
-                  ))}
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Trajetória de Carreira no Mercado Financeiro
+                          </h5>
+                          <p className="text-gray-600 mb-1">Bruno Rudge (Sócio-Fundador da Dynamo) e</p>
+                          <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo1"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          14h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Como Identificar Boas Oportunidades na Bolsa
+                          </h5>
+                          <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador da Magnus Capital) e</p>
+                          <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo2"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          17h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Tendências Para a Economia Global
+                          </h5>
+                          <p className="text-gray-600">Ruy Alves (Sócio da Kinea Investimentos)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo3"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Terça-feira (26/08) */}
+                  <div>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Terça (26/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          10h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Filosofias de Investimento no Cenário Brasileiro
+                          </h5>
+                          <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital) e</p>
+                          <p className="text-gray-600">Pedro Rosset (Analista da Sharp Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          13h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Gestão de Fundos Multimercado
+                          </h5>
+                          <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset) e</p>
+                          <p className="text-gray-600">XXXXXX (Gestor de Multimercado da SPX Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          16h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            O Macro e Micro nos Cases de Investimentos
+                          </h5>
+                          <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital) e</p>
+                          <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          18h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Painel BTG
+                          </h5>
+                          <p className="text-gray-600">XXXXX</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Quarta-feira (27/08) */}
+                  <div>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quarta (27/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          11h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Perspectivas de Investimentos em Ações e Trajetória
+                          </h5>
+                          <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos) e</p>
+                          <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          13h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Estratégias em Crédito e Special Situations
+                          </h5>
+                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
+                          <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          16h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Carreira em Bancos de Investimentos
+                          </h5>
+                          <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          18h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            O Mercado de Ações Brasileiro
+                          </h5>
+                          <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset) e</p>
+                          <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Quinta-feira (28/08) */}
+                  <div>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quinta (28/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          10h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Cenário Atual do Mercado de Private Equity
+                          </h5>
+                          <p className="text-gray-600 mb-1">Sócio Opportunity e</p>
+                          <p className="text-gray-600">Sócio HIG</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          12h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Desafios Para o Sistema Financeiro Nacional
+                          </h5>
+                          <p className="text-gray-600">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          15h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Oportunidades e Riscos Para o Crédito Privado
+                          </h5>
+                          <p className="text-gray-600">Sócio e Gestor de Crédito da Vinci Compass</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          18h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            Perspectivas Macroeconômicas no Brasil e no Mundo
+                          </h5>
+                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset) e</p>
+                          <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Sexta-feira (29/08) */}
+                  <div>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Sexta (29/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          13h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            O Futuro da Renda Fixa no Brasil
+                          </h5>
+                          <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda) e</p>
+                          <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          16h00
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            O Papel dos Multi-Family Offices na Gestão Patrimonial
+                          </h5>
+                          <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) e</p>
+                          <p className="text-gray-600">Flávio Stanger (Sócio da Galapagos Capital)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                          18h30
+                        </div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                            O Panorama Fiscal Brasileiro
+                          </h5>
+                          <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
+                          <p className="text-gray-600">Paulo Val (Economista-Chefe da Occam Brasil)</p>
+                        </div>
+                        <div className="flex-shrink-0">
+                          <a 
+                            href="https://forms.gle/exemplo4"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                          >
+                            Inscrever-se
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
