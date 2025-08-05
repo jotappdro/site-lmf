@@ -133,7 +133,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -145,7 +145,7 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Como Identificar Boas Oportunidades na Bolsa
+                            Como Pensam os Gestores de Ações
                           </h5>
                           <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador da Magnus Capital) e</p>
                           <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
@@ -157,7 +157,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -180,7 +180,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -210,7 +210,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -234,7 +234,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -246,7 +246,7 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            O Macro e Micro nos Cases de Investimentos
+                            Filosofias de Investimento no Brasil
                           </h5>
                           <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital) e</p>
                           <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
@@ -258,7 +258,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -281,7 +281,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -311,7 +311,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -335,7 +335,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -358,7 +358,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -382,7 +382,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -412,7 +412,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -435,7 +435,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -458,7 +458,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -470,7 +470,7 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Perspectivas Macroeconômicas no Brasil e no Mundo
+                            Cenário Macroeconômico Global e Local
                           </h5>
                           <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset) e</p>
                           <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
@@ -482,7 +482,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -512,7 +512,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -524,7 +524,7 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            O Papel dos Multi-Family Offices na Gestão Patrimonial
+                            Multi-Family Offices e a Gestão Patrimonial
                           </h5>
                           <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) e</p>
                           <p className="text-gray-600">Flávio Stanger (Sócio da Galapagos Capital)</p>
@@ -536,7 +536,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
@@ -560,7 +560,7 @@ const SMF = () => {
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
-                            Inscrever-se
+                            Inscreva-se
                           </a>
                         </div>
                       </div>
