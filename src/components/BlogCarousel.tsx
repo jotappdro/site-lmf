@@ -79,7 +79,7 @@ const BlogCarousel = () => {
               {getVisiblePosts().map((post, index) => (
                 <div key={`${post.id}-${index}`} className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
                   {/* Image */}
-                  <div className="aspect-[16/10] md:aspect-[16/8] overflow-hidden bg-gray-200">
+                  <div className="aspect-[4/5] md:aspect-[3/4] overflow-hidden bg-gray-200">
                     {/* PASSO 2: Alterando o src da imagem */}
                     <img 
                       src={`${import.meta.env.BASE_URL}${post.image}`} 
@@ -99,7 +99,7 @@ const BlogCarousel = () => {
                       <h3 className="text-xl font-semibold mb-3">
                         {post.title}
                       </h3>
-                      <p className="text-sm leading-relaxed text-gray-200">
+                      <p className="text-sm leading-relaxed text-gray-200 text-justify">
                         {post.description}
                       </p>
                     </div>
