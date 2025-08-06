@@ -70,7 +70,7 @@ export default {
 				},
 				// Custom financial colors
 				financial: {
-					primary: '#0A2540',
+					primary: '#5B7FA7',
 					secondary: '#1E3A8A',
 					accent: '#003d7a',
 					gold: '#F59E0B',
