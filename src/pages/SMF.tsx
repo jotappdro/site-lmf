@@ -114,8 +114,8 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-financial-primary mb-4">Segunda (25/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -126,7 +126,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Bruno Rudge (Sócio-Fundador da Dynamo) e</p>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo1"
                             target="_blank"
@@ -138,8 +138,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           14h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -150,7 +150,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador da Magnus Capital) e</p>
                           <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo2"
                             target="_blank"
@@ -162,8 +162,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           17h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -173,7 +173,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Ruy Alves (Sócio da Kinea Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo3"
                             target="_blank"
@@ -191,8 +191,8 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-financial-primary mb-4">Terça (26/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -203,7 +203,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital) e</p>
                           <p className="text-gray-600">Pedro Rosset (Analista da Sharp Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -215,8 +215,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -227,7 +227,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset) e</p>
                           <p className="text-gray-600">XXXXXX (Gestor de Multimercado da SPX Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -239,8 +239,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -251,7 +251,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital) e</p>
                           <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -263,8 +263,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -274,7 +274,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">XXXXX</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -292,8 +292,8 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-financial-primary mb-4">Quarta (27/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -304,7 +304,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos) e</p>
                           <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -316,8 +316,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -328,7 +328,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
                           <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -340,8 +340,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -351,7 +351,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -363,8 +363,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -375,7 +375,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset) e</p>
                           <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -393,8 +393,8 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-financial-primary mb-4">Quinta (28/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -405,7 +405,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Sócio Opportunity e</p>
                           <p className="text-gray-600">Sócio HIG</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -417,8 +417,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           12h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -428,7 +428,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -440,8 +440,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           15h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -451,7 +451,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -463,8 +463,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -475,7 +475,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset) e</p>
                           <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -493,8 +493,8 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-financial-primary mb-4">Sexta (29/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -505,7 +505,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda) e</p>
                           <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -517,8 +517,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -529,7 +529,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) e</p>
                           <p className="text-gray-600">Flávio Stanger (Sócio da Galapagos Capital)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
@@ -541,8 +541,8 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px]">
+                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
@@ -553,7 +553,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
                           <p className="text-gray-600">Paulo Val (Economista-Chefe da Occam Brasil)</p>
                         </div>
-                        <div className="flex-shrink-0">
+                        <div className="flex-shrink-0 flex justify-center">
                           <a 
                             href="https://forms.gle/exemplo4"
                             target="_blank"
