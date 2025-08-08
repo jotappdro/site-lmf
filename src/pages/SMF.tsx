@@ -123,7 +123,6 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Trajetória de Carreira no Mercado Financeiro
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Rudge (Sócio-Fundador da Dynamo) e</p>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -222,10 +221,9 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Gestão de Fundos Multimercado
+                            O Mercado de Ativos Íliquidos
                           </h5>
-                          <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset) e</p>
-                          <p className="text-gray-600">XXXXXX (Gestor de Multimercado da SPX Capital)</p>
+                          <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -270,9 +268,9 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Painel BTG
+                            Carreira em Bancos de Investimento
                           </h5>
-                          <p className="text-gray-600">XXXXX</p>
+                          <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -323,10 +321,9 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Estratégias em Crédito e Special Situations
+                            Gestão de Fundos Multimercado
                           </h5>
-                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
-                          <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
+                          <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -347,9 +344,10 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
-                            Carreira em Bancos de Investimentos
+                            Estratégias em Crédito e Special Situations
                           </h5>
-                          <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
+                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
+                          <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -402,8 +400,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Cenário Atual do Mercado de Private Equity
                           </h5>
-                          <p className="text-gray-600 mb-1">Sócio Opportunity e</p>
-                          <p className="text-gray-600">Sócio HIG</p>
+                          <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
