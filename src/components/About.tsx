@@ -262,8 +262,8 @@ const About = () => {
             </div>
 
             {/* Coluna Direita - Conteúdo Dinâmico */}
-          <div
-            className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${
+         <div
+           className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[350px] md:min-h-[400px] transition-all duration-500 ease-in-out ${
               isTransitioning
               ? 'opacity-0 transform -translate-x-4'
               : 'opacity-100 transform translate-x-0'
