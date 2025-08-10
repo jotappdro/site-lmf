@@ -262,27 +262,39 @@ const About = () => {
             </div>
 
             {/* Coluna Direita - Conteúdo Dinâmico */}
-           <div className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${ isTransitioning? 'opacity-0 transform -translate-x-4': 'opacity-100 transform translate-x-0'}`}
-              <h3 className="text-2xl font-bold text-white mb-6 text-center">
-                {currentSlideData.title}
-              </h3>
-              
-              {currentSlideData.rightContent.type === 'text' && (
-                <p className="text-white text-lg leading-relaxed text-justify">
-                  {currentSlideData.rightContent.content}
-                </p>
-              )}
-              
-              {currentSlideData.rightContent.type === 'values' && 'values' in currentSlideData.rightContent && currentSlideData.rightContent.values && (
+          <div
+            className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${
+              isTransitioning
+              ? 'opacity-0 transform -translate-x-4'
+              : 'opacity-100 transform translate-x-0'
+            }`}
+            >
+            <h3 className="text-2xl font-bold text-white mb-6 text-center">
+              {currentSlideData.title}
+            </h3>
+            
+            {currentSlideData.rightContent.type === 'text' && (
+              <p className="text-white text-lg leading-relaxed text-justify">
+                {currentSlideData.rightContent.content}
+              </p>
+            )}
+            
+            {currentSlideData.rightContent.type === 'values' &&
+              'values' in currentSlideData.rightContent &&
+              currentSlideData.rightContent.values &&
+              (
                 <div className="flex flex-col items-center space-y-4">
                   {currentSlideData.rightContent.values.map((value, index) => (
-                    <div key={index} className="text-white text-lg font-medium text-center">
-                      {value}
-                    </div>
-                  ))}
+                  <div
+                    key={index}
+                    className="text-white text-lg font-medium text-center"
+                    >
+                    {value}
+                  </div>
+                ))}
                 </div>
               )}
-            </div>
+          </div>
             
           </div>
           
