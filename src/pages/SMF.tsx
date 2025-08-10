@@ -112,7 +112,7 @@ const SMF = () => {
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (25/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Segunda (25/08)</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 mb-4">Segunda (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
@@ -120,7 +120,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Trajetória de Carreira no Mercado Financeiro
                           </h5>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
@@ -143,7 +143,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
                           <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador da Magnus Capital) e</p>
@@ -167,7 +167,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Tendências Para a Economia Global
                           </h5>
                           <p className="text-gray-600">Ruy Alves (Sócio da Kinea Investimentos)</p>
@@ -188,7 +188,7 @@ const SMF = () => {
 
                   {/* Terça-feira (26/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Terça (26/08)</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 mb-4">Terça (26/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
@@ -196,7 +196,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital) e</p>
@@ -220,7 +220,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ativos Íliquidos
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
@@ -243,7 +243,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Brasil
                           </h5>
                           <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital) e</p>
@@ -267,7 +267,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Carreira em Bancos de Investimento
                           </h5>
                           <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
@@ -288,7 +288,7 @@ const SMF = () => {
 
                   {/* Quarta-feira (27/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quarta (27/08)</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 mb-4">Quarta (27/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
@@ -296,7 +296,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
                           <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos) e</p>
@@ -320,7 +320,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Gestão de Fundos Multimercado
                           </h5>
                           <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
@@ -343,7 +343,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Estratégias em Crédito e Special Situations
                           </h5>
                           <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
@@ -367,7 +367,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ações Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset) e</p>
@@ -389,7 +389,7 @@ const SMF = () => {
 
                   {/* Quinta-feira (28/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quinta (28/08)</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 mb-4">Quinta (28/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
@@ -397,7 +397,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Atual do Mercado de Private Equity
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
@@ -420,7 +420,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Desafios Para o Sistema Financeiro Nacional
                           </h5>
                           <p className="text-gray-600">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
@@ -443,7 +443,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
                           </h5>
                           <p className="text-gray-600">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
@@ -466,7 +466,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Macroeconômico Global e Local
                           </h5>
                           <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset) e</p>
@@ -488,7 +488,7 @@ const SMF = () => {
 
                   {/* Sexta-feira (29/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Sexta (29/08)</h4>
+                    <h4 className="text-xl font-semibold text-gray-900 mb-4">Sexta (29/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
@@ -496,7 +496,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Futuro da Renda Fixa no Brasil
                           </h5>
                           <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda) e</p>
@@ -520,7 +520,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
                           <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) e</p>
@@ -544,7 +544,7 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-gray-900 mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Panorama Fiscal Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
