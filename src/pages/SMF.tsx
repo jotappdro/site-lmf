@@ -1,3 +1,4 @@
+
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import PageHeader from '@/components/PageHeader';
@@ -65,61 +66,59 @@ const SMF = () => {
               {/* Texto descritivo */}
               <div className="mb-12">
                 <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-justify">
-                  A <span className="font-bold text-financial-blue">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
+                  A <span className="font-bold text-financial-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
                   Sua grande missão é imergir os alunos universitários no mundo das finanças, promovendo, assim, a democratização deste conhecimento.
                 </p>
               </div>
 
               {/* Patrocinadores */}
               <div className="mb-16">
-                <h3 className="text-2xl font-bold text-financial-blue mb-8">Patrocinadores Oficiais</h3>
-                <div className="bg-gradient-to-r from-financial-blue/10 to-financial-blue/5 p-8 rounded-2xl border-2 border-financial-blue/20">
-                  <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-                    <div className="flex items-center justify-center h-28 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 border border-financial-blue/20">
-                      <img 
-                        src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
-                        alt="Icatu Vanguarda"
-                        className="h-14 max-w-full object-contain"
-                      />
-                    </div>
-                    <div className="flex items-center justify-center h-28 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 border border-financial-blue/20">
-                      <img 
-                        src={`${import.meta.env.BASE_URL}lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png`}
-                        alt="Sharp Capital"
-                        className="h-14 max-w-full object-contain"
-                      />
-                    </div>
-                    <div className="flex items-center justify-center h-28 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 border border-financial-blue/20">
-                      <img 
-                        src={`${import.meta.env.BASE_URL}lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png`}
-                        alt="TRUXT"
-                        className="h-14 max-w-full object-contain"
-                      />
-                    </div>
-                    <div className="flex items-center justify-center h-28 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 border border-financial-blue/20">
-                      <img 
-                        src={`${import.meta.env.BASE_URL}lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png`}
-                        alt="Vinci Compass"
-                        className="h-14 max-w-full object-contain"
-                      />
-                    </div>
+                <h3 className="text-xl font-semibold text-financial-primary mb-6">Patrocinadores</h3>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
+                      alt="Icatu Vanguarda"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png`}
+                      alt="Sharp Capital"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png`}
+                      alt="TRUXT"
+                      className="h-12 max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png`}
+                      alt="Vinci Compass"
+                      className="h-12 max-w-full object-contain"
+                    />
                   </div>
                 </div>
               </div>
 
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
-                <h3 className="text-2xl font-semibold text-financial-blue mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
+                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (25/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-blue mb-4">Segunda (25/08)</h4>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Segunda (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Trajetória de Carreira no Mercado Financeiro
@@ -131,7 +130,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo1"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -139,10 +138,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           14h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Como Pensam os Gestores de Ações
@@ -155,7 +154,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo2"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -163,10 +162,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           17h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Tendências Para a Economia Global
@@ -178,7 +177,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo3"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -189,13 +188,13 @@ const SMF = () => {
 
                   {/* Terça-feira (26/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-blue mb-4">Terça (26/08)</h4>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Terça (26/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
@@ -208,7 +207,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -216,10 +215,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             O Mercado de Ativos Íliquidos
@@ -231,7 +230,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -239,10 +238,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Filosofias de Investimento no Brasil
@@ -255,7 +254,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -263,10 +262,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Carreira em Bancos de Investimento
@@ -278,7 +277,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -289,13 +288,13 @@ const SMF = () => {
 
                   {/* Quarta-feira (27/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-blue mb-4">Quarta (27/08)</h4>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quarta (27/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
@@ -308,7 +307,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -316,10 +315,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Gestão de Fundos Multimercado
@@ -331,7 +330,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -339,10 +338,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Estratégias em Crédito e Special Situations
@@ -355,7 +354,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -363,10 +362,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             O Mercado de Ações Brasileiro
@@ -379,7 +378,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -390,13 +389,13 @@ const SMF = () => {
 
                   {/* Quinta-feira (28/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-blue mb-4">Quinta (28/08)</h4>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Quinta (28/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Cenário Atual do Mercado de Private Equity
@@ -408,7 +407,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -416,10 +415,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           12h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Desafios Para o Sistema Financeiro Nacional
@@ -431,7 +430,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -439,10 +438,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           15h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
@@ -454,7 +453,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -462,10 +461,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Cenário Macroeconômico Global e Local
@@ -478,7 +477,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -489,13 +488,13 @@ const SMF = () => {
 
                   {/* Sexta-feira (29/08) */}
                   <div>
-                    <h4 className="text-xl font-semibold text-financial-blue mb-4">Sexta (29/08)</h4>
+                    <h4 className="text-xl font-semibold text-financial-primary mb-4">Sexta (29/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             O Futuro da Renda Fixa no Brasil
@@ -508,7 +507,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -516,10 +515,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
@@ -532,7 +531,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -540,10 +539,10 @@ const SMF = () => {
                       </div>
 
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-blue min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
-                        <div className="w-1 bg-financial-blue rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-gray-900 mb-2">
                             O Panorama Fiscal Brasileiro
@@ -556,7 +555,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo4"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-blue text-white px-6 py-2 rounded-lg hover:bg-financial-blue/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -574,22 +573,22 @@ const SMF = () => {
         <section className="py-20 bg-gray-50">
           <div className="container mx-auto px-6">
             <div className="max-w-4xl mx-auto">
-              <h3 className="text-3xl font-bold text-financial-blue mb-12 text-center">Edições Anteriores</h3>
+              <h3 className="text-3xl font-bold text-financial-primary mb-12 text-center">Edições Anteriores</h3>
               
               <div className="relative">
                 {/* Linha vertical */}
-                <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-financial-blue"></div>
+                <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-financial-accent"></div>
                 
                 <div className="space-y-8">
                   {timeline.map((item, index) => (
                     <div key={index} className="relative flex items-start">
                       {/* Marcador circular */}
-                      <div className="relative z-10 w-8 h-8 bg-financial-blue rounded-full border-4 border-white shadow-lg flex-shrink-0 mt-1"></div>
+                      <div className="relative z-10 w-8 h-8 bg-financial-accent rounded-full border-4 border-white shadow-lg flex-shrink-0 mt-1"></div>
                       
                       {/* Conteúdo */}
                       <div className="ml-8 pb-8">
                         <div className="bg-transparent p-6">
-                          <h4 className="text-xl font-semibold text-financial-blue mb-3">
+                          <h4 className="text-xl font-semibold text-financial-primary mb-3">
                             {item.edition}
                           </h4>
                           <p className="text-gray-600 leading-relaxed mb-2">
