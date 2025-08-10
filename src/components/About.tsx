@@ -232,7 +232,7 @@ const About = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/90 to-black" />
             
             {/* Coluna Esquerda - Destaques FIXOS */}
-            <div className="relative z-10 p-8 lg:p-12 flex flex-col justify-center h-full min-h-[250px] items-center justify-center">
+            <div className="relative z-10 p-8 lg:p-12 flex flex-col justify-center min-h-[250px] md:min-h-[400px]">
               <div className="space-y-8">
                 <div>
                   <div className="text-5xl lg:text-6xl font-black text-white mb-2">
@@ -262,7 +262,7 @@ const About = () => {
             </div>
 
             {/* Coluna Direita - Conteúdo Dinâmico */}
-            <div className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center transition-all duration-500 ease-in-out ${isTransitioning ? 'opacity-0 transform -translate-x-4' : 'opacity-100 transform translate-x-0'}`}>
+           <div className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${isTransitioning ? 'opacity-0 transform -translate-x-4' : 'opacity-100 transform translate-x-0'}`}>: 'opacity-100 transform translate-x-0'}`}>
               <h3 className="text-2xl font-bold text-white mb-6 text-center">
                 {currentSlideData.title}
               </h3>
