@@ -523,8 +523,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
-                          <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) e</p>
-                          <p className="text-gray-600">Flávio Stanger (Sócio da Galapagos Capital)</p>
+                          <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) </p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
