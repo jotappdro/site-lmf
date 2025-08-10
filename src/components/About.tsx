@@ -231,36 +231,34 @@ const About = () => {
             />
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/90 to-black" />
             
-            {/* Coluna Esquerda - Conteúdo Dinâmico */}
-            <div className={`relative z-10 p-8 lg:p-12 flex flex-col justify-center h-full transition-all duration-500 ease-in-out ${isTransitioning ? 'opacity-0 transform translate-x-4' : 'opacity-100 transform translate-x-0'}`}>
-              {currentSlideData.leftContent.type === 'stats' && (
-                <div className="space-y-8">
-                   <div>
-                      <div className="text-5xl lg:text-6xl font-black text-white mb-2">
-                        Há {animatedYears} anos
-                      </div>
-                      <p className="text-gray-300 text-sm uppercase tracking-wide">
-                        construindo parcerias com o mercado financeiro
-                      </p>
-                    </div>
-                    <div>
-                      <div className="text-5xl lg:text-6xl font-black text-white mb-2">
-                        +{animatedAlumni}
-                      </div>
-                      <p className="text-gray-300 text-sm uppercase tracking-wide">
-                        ex-associados formam nossa Rede Alumni
-                      </p>
-                    </div>
-                    <div>
-                      <div className="text-5xl lg:text-6xl font-black text-white mb-2">
-                        +{animatedCompanies}
-                      </div>
-                      <p className="text-gray-300 text-sm uppercase tracking-wide">
-                        gestoras e bancos contam com a representatividade da LMF PUC-Rio
-                      </p>
-                    </div>
+            {/* Coluna Esquerda - Destaques FIXOS */}
+            <div className="relative z-10 p-8 lg:p-12 flex flex-col justify-center h-full min-h-[300px]">
+              <div className="space-y-8">
+                <div>
+                  <div className="text-5xl lg:text-6xl font-black text-white mb-2">
+                    Há {animatedYears} anos
+                  </div>
+                  <p className="text-gray-300 text-sm uppercase tracking-wide">
+                    construindo parcerias com o mercado financeiro
+                  </p>
                 </div>
-              )}
+                <div>
+                  <div className="text-5xl lg:text-6xl font-black text-white mb-2">
+                    +{animatedAlumni}
+                  </div>
+                  <p className="text-gray-300 text-sm uppercase tracking-wide">
+                    ex-associados formam nossa Rede Alumni
+                  </p>
+                </div>
+                <div>
+                  <div className="text-5xl lg:text-6xl font-black text-white mb-2">
+                    +{animatedCompanies}
+                  </div>
+                  <p className="text-gray-300 text-sm uppercase tracking-wide">
+                    gestoras e bancos contam com a representatividade da LMF PUC-Rio
+                  </p>
+                </div>
+              </div>
             </div>
 
             {/* Coluna Direita - Conteúdo Dinâmico */}
