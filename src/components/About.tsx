@@ -262,7 +262,7 @@ const About = () => {
             </div>
 
             {/* Coluna Direita - Conteúdo Dinâmico */}
-           <div className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${isTransitioning ? 'opacity-0 transform -translate-x-4' : 'opacity-100 transform translate-x-0'}`}>: 'opacity-100 transform translate-x-0'}`}>
+           <div className={`relative z-10 p-8 lg:p-12 lg:pr-20 flex flex-col justify-center min-h-[250px] md:min-h-[400px] transition-all duration-500 ease-in-out ${ isTransitioning? 'opacity-0 transform -translate-x-4': 'opacity-100 transform translate-x-0'}`}
               <h3 className="text-2xl font-bold text-white mb-6 text-center">
                 {currentSlideData.title}
               </h3>
