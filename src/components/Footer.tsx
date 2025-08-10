@@ -41,7 +41,7 @@ const Footer = () => {
                   <img 
                     src={`${import.meta.env.BASE_URL}lovable-uploads/bf0ea220-04d5-4166-beb4-3944bc12069f.png`}
                     alt="LMF PUC-Rio" 
-                    className="h-40 w-auto"
+                     className="h-[200px] w-auto"
                   />
                 </div>
               </div>
