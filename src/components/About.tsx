@@ -232,7 +232,7 @@ const About = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/90 to-black" />
             
             {/* Coluna Esquerda - Destaques FIXOS */}
-            <div className="relative z-10 p-8 lg:p-12 flex flex-col justify-center h-full min-h-[300px]">
+            <div className="relative z-10 p-8 lg:p-12 flex flex-col justify-center h-full min-h-[250px] items-center justify-center">
               <div className="space-y-8">
                 <div>
                   <div className="text-5xl lg:text-6xl font-black text-white mb-2">
