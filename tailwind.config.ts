@@ -73,6 +73,7 @@ export default {
 					primary: '#0A2540',
 					secondary: '#1E3A8A',
 					accent: '#003d7a',
+					blue: '#1E40AF', // Novo tom de azul baseado na imagem
 					gold: '#F59E0B',
 					success: '#10B981',
 					warning: '#F59E0B'
