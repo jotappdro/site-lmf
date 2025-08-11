@@ -204,7 +204,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-value-investing-e-estrategias-de-longo-prazo/3073386"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -227,7 +227,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-o-mercado-de-ativo-iliquidos/3073403"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -251,7 +251,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-filosofias-de-investimento-no-brasil/3073409"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -274,7 +274,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-carreira-em-bancos-de-investimento/3073431"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -404,7 +404,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-cenario-atual-do-mercado-de-private-equity/3073453"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -427,7 +427,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-desafios-para-o-sistema-financeiro-nacional/3073465"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -450,7 +450,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-oportunidades-e-riscos-para-o-credito-privado/3073479"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -474,7 +474,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-cenario-macroeconomico-global-e-local/3073492"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -523,7 +523,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
-                          <p className="text-gray-600 mb-1">Eduardo Gomes (Co-CEO e Sócio da Turim Investimentos)</p>
+                          <p className="text-gray-600 mb-1">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
