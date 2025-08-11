@@ -75,7 +75,7 @@ const BlogCarousel = () => {
           {/* Carousel Container */}
           <div className="relative">
             {/* Cards Grid */}
-            <div className="grid md:grid-cols-3 gap-6 mb-8">
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
               {getVisiblePosts().map((post, index) => (
                 <div key={`${post.id}-${index}`} className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
                   {/* Image */}
