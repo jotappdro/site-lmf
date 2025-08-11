@@ -68,7 +68,7 @@ const BlogCarousel = () => {
           {/* Header */}
           <div className="mb-12">
             <h2 className="text-3xl font-semibold text-gray-900">
-              Principais atividades
+              Principais Atividades
             </h2>
           </div>
 
@@ -79,7 +79,7 @@ const BlogCarousel = () => {
               {getVisiblePosts().map((post, index) => (
                 <div key={`${post.id}-${index}`} className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
                   {/* Image */}
-                  <div className="aspect-[4/5] md:aspect-[3/4] overflow-hidden bg-gray-200">
+                  <div className="w-full h-[300px] overflow-hidden bg-gray-200">
                     {/* PASSO 2: Alterando o src da imagem */}
                     <img 
                       src={`${import.meta.env.BASE_URL}${post.image}`} 
