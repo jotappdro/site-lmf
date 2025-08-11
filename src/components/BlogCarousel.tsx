@@ -68,7 +68,7 @@ const BlogCarousel = () => {
           {/* Header */}
           <div className="mb-12">
             <h2 className="text-3xl font-semibold text-gray-900">
-              Principais atividades
+              Principais Atividades
             </h2>
           </div>
 
