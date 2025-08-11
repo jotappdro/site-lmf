@@ -76,10 +76,6 @@ export default {
 					gold: '#F59E0B',
 					success: '#10B981',
 					warning: '#F59E0B'
-				},
-				// SMF specific blue
-				smf: {
-					blue: '#2563eb'
 				}
 			},
 			borderRadius: {
