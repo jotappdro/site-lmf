@@ -30,7 +30,7 @@ const Map = () => {
   }, []);
 
   return (
-    <div className="relative w-full pb-[56.25%] rounded-lg overflow-hidden shadow-lg">
+    <div className="relative w-full pb-[70%] rounded-lg overflow-hidden shadow-lg">
       <div ref={mapRef} className="absolute top-0 left-0 w-full h-full" />
     </div>
   );
