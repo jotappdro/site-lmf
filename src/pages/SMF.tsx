@@ -146,7 +146,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
-                          <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador da Magnus Capital) e</p>
+                          <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
                           <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -170,7 +170,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Tendências Para a Economia Global
                           </h5>
-                          <p className="text-gray-600">Ruy Alves (Sócio da Kinea Investimentos)</p>
+                          <p className="text-gray-600">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -199,8 +199,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital) e</p>
-                          <p className="text-gray-600">Pedro Rosset (Analista da Sharp Capital)</p>
+                          <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
+                          <p className="text-gray-600">Pedro Rosset (Sócio da Sharp Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
@@ -246,7 +246,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital) e</p>
+                          <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
                           <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -299,7 +299,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos) e</p>
+                          <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
                           <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -346,7 +346,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Estratégias em Crédito e Special Situations
                           </h5>
-                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital) e</p>
+                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital)</p>
                           <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -370,7 +370,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ações Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset) e</p>
+                          <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
                           <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -469,7 +469,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Macroeconômico Global e Local
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset) e</p>
+                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
                           <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -499,7 +499,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Futuro da Renda Fixa no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda) e</p>
+                          <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                           <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
@@ -523,7 +523,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
-                          <p className="text-gray-600 mb-1">Eduardo Gomes (Sócio da Turim Investimentos) </p>
+                          <p className="text-gray-600 mb-1">Eduardo Gomes (Co-CEO e Sócio da Turim Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
