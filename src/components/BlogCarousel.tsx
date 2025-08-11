@@ -68,50 +68,52 @@ const BlogCarousel = () => {
           {/* Header */}
           <div className="mb-12">
             <h2 className="text-3xl font-semibold text-gray-900">
-              Principais Atividades
+              Principais atividades
             </h2>
           </div>
 
           {/* Carousel Container */}
           <div className="relative">
-           {/* Cards Grid */}
-            <div className="grid md:grid-cols-2 gap-6 mb-8 justify-center">
+            {/* Cards Grid */}
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
               {getVisiblePosts().map((post, index) => (
-    <div 
-      key={`${post.id}-${index}`} 
-      className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 w-full md:w-80 h-[450px]"
-      >
-      {/* Imagem */}
-      <div className="w-full h-2/3 overflow-hidden bg-gray-200">
-        <img 
-          src={`${import.meta.env.BASE_URL}${post.image}`} 
-          alt={post.title}
-          loading="lazy"
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-          onLoad={(e) => {
-            e.currentTarget.style.opacity = '1';
-          }}
-          style={{ opacity: '0', transition: 'opacity 0.3s ease-in-out' }}
-        />
-      </div>
-      
-      {/* Overlay com conteúdo - aparece no hover */}
-      <div className="absolute inset-0 bg-black/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
-        <div className="p-6 text-white">
-          <h3 className="text-xl font-semibold mb-3">{post.title}</h3>
-          <p className="text-sm leading-relaxed text-gray-200 text-justify">
-            {post.description}
-          </p>
-        </div>
-      </div>
-      
-      {/* Título sempre visível */}
-      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4 group-hover:opacity-0 transition-opacity duration-300">
-        <h3 className="text-white font-semibold text-lg">{post.title}</h3>
-      </div>
-    </div>
-  ))}
-</div>
+                <div key={`${post.id}-${index}`} className="group relative bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300">
+                  {/* Image */}
+                  <div className="aspect-[4/5] md:aspect-[3/4] overflow-hidden bg-gray-200">
+                    {/* PASSO 2: Alterando o src da imagem */}
+                    <img 
+                      src={`${import.meta.env.BASE_URL}${post.image}`} 
+                      alt={post.title}
+                      loading="lazy"
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      onLoad={(e) => {
+                        e.currentTarget.style.opacity = '1';
+                      }}
+                      style={{ opacity: '0', transition: 'opacity 0.3s ease-in-out' }}
+                    />
+                  </div>
+                  
+                  {/* Overlay with content - appears on hover */}
+                  <div className="absolute inset-0 bg-black/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
+                    <div className="p-6 text-white">
+                      <h3 className="text-xl font-semibold mb-3">
+                        {post.title}
+                      </h3>
+                      <p className="text-sm leading-relaxed text-gray-200 text-justify">
+                        {post.description}
+                      </p>
+                    </div>
+                  </div>
+                  
+                  {/* Title always visible at bottom */}
+                  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4 group-hover:opacity-0 transition-opacity duration-300">
+                    <h3 className="text-white font-semibold text-lg">
+                      {post.title}
+                    </h3>
+                  </div>
+                </div>
+              ))}
+            </div>
 
             {/* Navigation Arrows - Centered below */}
             <div className="flex justify-center items-center gap-4">
