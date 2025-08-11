@@ -504,7 +504,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-o-futuro-da-renda-fixa-no-brasil/3073047"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -527,7 +527,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-multi-family-offices-e-a-gestao-patrimonial/3073055"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -551,7 +551,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-o-panorama-fiscal-brasileiro/3073065"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
