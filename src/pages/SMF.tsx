@@ -120,8 +120,8 @@ const SMF = () => {
                         </div>
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
-                            Trajetória de Carreira no Mercado Financeiro
+                          <h5 className="text-lg font-semibold text-primary mb-2">
+                            Trajetória no Mercado Financeiro
                           </h5>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
