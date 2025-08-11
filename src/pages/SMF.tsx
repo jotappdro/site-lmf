@@ -127,7 +127,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo1"
+                            href="https://www.sympla.com.br/evento/painel-trajetoria-no-mercado-financeiro/3072960"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -151,7 +151,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo2"
+                            href="https://www.sympla.com.br/evento/painel-como-pensam-os-gestores-de-acoes/3072976"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -174,7 +174,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo3"
+                            href="https://www.sympla.com.br/evento/painel-tendencias-para-a-economia-global/3072986"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -304,7 +304,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-perspectivas-de-investimentos-em-acoes-e-trajetoria/3072997"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -327,7 +327,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-gestao-de-fundos-multimercado/3073007"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -351,7 +351,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-estrategias-em-credito-e-special-situations/3073017"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
@@ -375,7 +375,7 @@ const SMF = () => {
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
                           <a 
-                            href="https://forms.gle/exemplo4"
+                            href="https://www.sympla.com.br/evento/painel-o-mercado-de-acoes-brasileiro/3073028"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
