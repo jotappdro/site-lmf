@@ -3,7 +3,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
 import Index from "./pages/Index";
@@ -19,7 +19,7 @@ import Alumni from "./pages/Alumni";
 import { useEasterEgg } from "./hooks/useEasterEgg";
 import Starwalker from "./components/Starwalker";
 
-// FLUMINENSE
+// oiiiiiiiiiieeeee
 const queryClient = new QueryClient();
 
 const App = () => {
@@ -31,7 +31,7 @@ const App = () => {
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <HashRouter basename="/site-lmf/">
+        <BrowserRouter basename="/site-lmf/">
           {/* O componente do Starwalker é renderizado aqui quando ativado */}
           <Starwalker isActive={activated} onComplete={deactivate} />
           
@@ -46,7 +46,7 @@ const App = () => {
             <Route path="/competicoes" element={<Competicoes />} />
             <Route path="/alumni" element={<Alumni />} />
           </Routes>
-        </HashRouter>
+        </BrowserRouter>
       </TooltipProvider>
     </QueryClientProvider>
   );
