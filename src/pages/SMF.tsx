@@ -344,9 +344,9 @@ const SMF = () => {
                         <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
-                            Estratégias em Crédito e Special Situations
+                            Estratégias de Crédito: Do High Grade ao Special Situations
                           </h5>
-                          <p className="text-gray-600 mb-1">Rafael Fritsch (Sócio-Fundador e CIO da Root Capital)</p>
+                          <p className="text-gray-600 mb-1">Rafael Fritsch (CIO da Root Capital)</p>
                           <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center">
