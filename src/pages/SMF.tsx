@@ -66,7 +66,7 @@ const SMF = () => {
               {/* Texto descritivo */}
               <div className="mb-12">
                 <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-justify">
-                  A <span className="font-bold text-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
+                  A <span className="font-bold text-financial-primary">Semana de Mercado Financeiro PUC-Rio</span> é um evento totalmente gratuito que reúne renomados profissionais da área. 
                   Sua grande missão é imergir os alunos universitários no mundo das finanças, promovendo, assim, a democratização deste conhecimento.
                 </p>
               </div>
@@ -115,13 +115,13 @@ const SMF = () => {
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Segunda (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-primary min-w-[60px] text-center">
+                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h30
                         </div>
-                        <div className="w-1 bg-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Trajetória no Mercado Financeiro
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                            Trajetória de Carreira no Mercado Financeiro
                           </h5>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
@@ -130,7 +130,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo1"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -141,9 +141,9 @@ const SMF = () => {
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           14h00
                         </div>
-                        <div className="w-1 bg-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
+                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
                           <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
@@ -154,7 +154,7 @@ const SMF = () => {
                             href="https://forms.gle/exemplo2"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
+                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
