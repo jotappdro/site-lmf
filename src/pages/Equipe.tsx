@@ -161,7 +161,7 @@ const Equipe = () => {
           <img 
             src={`${import.meta.env.BASE_URL}${membro.foto}`} 
             alt={membro.nome}
-            className="w-64 h-64 rounded-full mx-auto object-cover mb-4"
+            className="w-64 h-64 rounded-full mx-auto object-cover object-center mb-4"
           />
           <h3 className="text-xl font-semibold text-financial-primary mb-2">
             {membro.nome}
