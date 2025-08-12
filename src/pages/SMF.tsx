@@ -48,7 +48,7 @@ const SMF = () => {
       <Header />
       <main className="pt-20">
         <PageHeader 
-          title="SMF - Semana do Mercado Financeiro"
+          title="Semana de Mercado Financeiro"
           subtitle="O maior evento de mercado financeiro da PUC-Rio, reunindo estudantes, profissionais e empresas para discussões sobre o futuro do setor"
         />
         <section className="py-20 bg-white">
