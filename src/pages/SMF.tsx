@@ -74,7 +74,7 @@ const SMF = () => {
               {/* Patrocinadores */}
               <div className="mb-16">
                 <h3 className="text-xl font-semibold text-financial-primary mb-6">Patrocinadores</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                   <div className="flex items-center justify-center h-24">
                     <img 
                       src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
