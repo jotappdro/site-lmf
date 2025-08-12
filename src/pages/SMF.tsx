@@ -72,28 +72,39 @@ const SMF = () => {
               </div>
 
               {/* Patrocinadores */}
-<div className="mb-20">
-  <h3 className="text-2xl font-semibold text-financial-primary mb-8">Patrocinadores</h3>
-  <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-    {[
-      { src: "lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png", alt: "Icatu Vanguarda" },
-      { src: "lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png", alt: "Sharp Capital" },
-      { src: "lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png", alt: "TRUXT" },
-      { src: "lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png", alt: "Vinci Compass" },
-    ].map((logo, idx) => (
-      <div 
-        key={idx} 
-        className="flex items-center justify-center h-24 w-48 mx-auto bg-white rounded-lg"
-      >
-        <img 
-          src={`${import.meta.env.BASE_URL}${logo.src}`}
-          alt={logo.alt}
-          className="max-h-full max-w-full object-contain"
-        />
-      </div>
-    ))}
-  </div>
-</div>
+              <div className="mb-20">
+                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Patrocinadores</h3>
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
+                      alt="Icatu Vanguarda"
+                      className="h-24 w-48 object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png`}
+                      alt="Sharp Capital"
+                      className="h-24 w-48 object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png`}
+                      alt="TRUXT"
+                      className="h-24 w-48 object-contain"
+                    />
+                  </div>
+                  <div className="flex items-center justify-center h-24">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png`}
+                      alt="Vinci Compass"
+                      className="h-24 w-48 object-contain"
+                    />
+                  </div>
+                </div>
+              </div>
 
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
