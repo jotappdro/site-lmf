@@ -98,7 +98,7 @@ const Competicoes = () => {
                             <img 
                               src={`${import.meta.env.BASE_URL}${comp.imagem}`}
                               alt={comp.nome}
-                              className={`w-full h-96 object-cover ${comp.imagePosition}`}
+                              className={`w-full h-auto sm:h-96 object-cover sm:object-cover ${comp.imagePosition}`}
                             />
                           </div>
                           
