@@ -123,7 +123,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Trajetória de Carreira no Mercado Financeiro
                           </h5>
-                          <p className="text-gray-600 text-justify">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
+                          <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -146,8 +146,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
-                          <p className="text-gray-600 text-justify">Phillippe Perdigão (Investidor)</p>
+                          <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
+                          <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -170,7 +170,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Tendências Para a Economia Global
                           </h5>
-                          <p className="text-gray-600 text-justify">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
+                          <p className="text-gray-600">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -199,8 +199,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
-                          <p className="text-gray-600 text-justify">Pedro Rosset (Sócio da Sharp Capital)</p>
+                          <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
+                          <p className="text-gray-600">Pedro Rosset (Sócio da Sharp Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -223,7 +223,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ativos Íliquidos
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
+                          <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -246,8 +246,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
-                          <p className="text-gray-600 text-justify">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
+                          <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
+                          <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -270,7 +270,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Carreira em Bancos de Investimento
                           </h5>
-                          <p className="text-gray-600 text-justify">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
+                          <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -299,8 +299,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
-                          <p className="text-gray-600 text-justify">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
+                          <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
+                          <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -323,7 +323,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Gestão de Fundos Multimercado
                           </h5>
-                          <p className="text-gray-600 text-justify">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
+                          <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -346,8 +346,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Estratégias de Crédito: Do High Grade ao Special Situations
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Rafael Fritsch (CIO da Root Capital)</p>
-                          <p className="text-gray-600 text-justify">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
+                          <p className="text-gray-600 mb-1">Rafael Fritsch (CIO da Root Capital)</p>
+                          <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -370,8 +370,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ações Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
-                          <p className="text-gray-600 text-justify">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
+                          <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
+                          <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -400,7 +400,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Atual do Mercado de Private Equity
                           </h5>
-                          <p className="text-gray-600 text-justify">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
+                          <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -423,7 +423,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Desafios Para o Sistema Financeiro Nacional
                           </h5>
-                          <p className="text-gray-600 text-justify">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
+                          <p className="text-gray-600">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -446,7 +446,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
                           </h5>
-                          <p className="text-gray-600 text-justify">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
+                          <p className="text-gray-600">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -469,8 +469,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Macroeconômico Global e Local
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
-                          <p className="text-gray-600 text-justify">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
+                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
+                          <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -499,8 +499,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Futuro da Renda Fixa no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
-                          <p className="text-gray-600 text-justify">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
+                          <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
+                          <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -523,7 +523,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
-                          <p className="text-gray-600 text-justify">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
+                          <p className="text-gray-600 mb-1">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -546,8 +546,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Panorama Fiscal Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1 text-justify">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
-                          <p className="text-gray-600 text-justify">Paulo Val (Economista-Chefe da Occam Brasil)</p>
+                          <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
+                          <p className="text-gray-600">Paulo Val (Economista-Chefe da Occam Brasil)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
