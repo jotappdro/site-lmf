@@ -125,7 +125,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-trajetoria-no-mercado-financeiro/3072960"
                             target="_blank"
@@ -149,7 +149,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
                           <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-como-pensam-os-gestores-de-acoes/3072976"
                             target="_blank"
@@ -172,7 +172,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-tendencias-para-a-economia-global/3072986"
                             target="_blank"
@@ -202,7 +202,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
                           <p className="text-gray-600">Pedro Rosset (Sócio da Sharp Capital)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-value-investing-e-estrategias-de-longo-prazo/3073386"
                             target="_blank"
@@ -249,7 +249,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
                           <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-filosofias-de-investimento-no-brasil/3073409"
                             target="_blank"
@@ -272,7 +272,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-carreira-em-bancos-de-investimento/3073431"
                             target="_blank"
@@ -302,7 +302,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
                           <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-perspectivas-de-investimentos-em-acoes-e-trajetoria/3072997"
                             target="_blank"
@@ -325,7 +325,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-gestao-de-fundos-multimercado/3073007"
                             target="_blank"
@@ -349,7 +349,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Rafael Fritsch (CIO da Root Capital)</p>
                           <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-estrategias-em-credito-e-special-situations/3073017"
                             target="_blank"
@@ -373,7 +373,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
                           <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-o-mercado-de-acoes-brasileiro/3073028"
                             target="_blank"
@@ -402,7 +402,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-cenario-atual-do-mercado-de-private-equity/3073453"
                             target="_blank"
@@ -425,7 +425,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-desafios-para-o-sistema-financeiro-nacional/3073465"
                             target="_blank"
@@ -448,7 +448,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600">Bruno Spilberg (Sócio e Gestor de Crédito da Vinci Compass)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-oportunidades-e-riscos-para-o-credito-privado/3073479"
                             target="_blank"
@@ -472,7 +472,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
                           <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-cenario-macroeconomico-global-e-local/3073492"
                             target="_blank"
@@ -502,7 +502,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                           <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-o-futuro-da-renda-fixa-no-brasil/3073047"
                             target="_blank"
@@ -525,7 +525,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600 mb-1">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-multi-family-offices-e-a-gestao-patrimonial/3073055"
                             target="_blank"
@@ -549,7 +549,7 @@ const SMF = () => {
                           <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
                           <p className="text-gray-600">Paulo Val (Economista-Chefe da Occam Brasil)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-o-panorama-fiscal-brasileiro/3073065"
                             target="_blank"
