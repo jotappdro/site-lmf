@@ -114,7 +114,7 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Segunda (25/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h30
                         </div>
@@ -137,7 +137,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           14h00
                         </div>
@@ -161,7 +161,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           17h00
                         </div>
@@ -190,7 +190,7 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Terça (26/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h30
                         </div>
@@ -214,7 +214,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h00
                         </div>
@@ -237,7 +237,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
@@ -261,7 +261,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
@@ -290,7 +290,7 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Quarta (27/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           11h00
                         </div>
@@ -314,7 +314,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
@@ -337,7 +337,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
@@ -361,7 +361,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
@@ -391,7 +391,7 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Quinta (28/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           10h00
                         </div>
@@ -414,7 +414,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           12h30
                         </div>
@@ -437,7 +437,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           15h00
                         </div>
@@ -460,7 +460,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h00
                         </div>
@@ -490,7 +490,7 @@ const SMF = () => {
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-4">Sexta (29/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           13h30
                         </div>
@@ -514,7 +514,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           16h00
                         </div>
@@ -537,7 +537,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex items-center gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
                           18h30
                         </div>
