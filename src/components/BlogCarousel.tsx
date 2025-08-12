@@ -85,7 +85,7 @@ const BlogCarousel = () => {
                       src={`${import.meta.env.BASE_URL}${post.image}`} 
                       alt={post.title}
                       loading="lazy"
-                      className="w-full h-auto sm:h-full object-contain sm:object-cover group-hover:scale-105 transition-transform duration-300"
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                       onLoad={(e) => {
                         e.currentTarget.style.opacity = '1';
                       }}
