@@ -112,7 +112,7 @@ const SMF = () => {
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (25/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4 ml-6">Segunda-feira (25/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Segunda-feira (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
