@@ -225,7 +225,7 @@ const SMF = () => {
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center">
+                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
                             href="https://www.sympla.com.br/evento/painel-o-mercado-de-ativo-iliquidos/3073403"
                             target="_blank"
