@@ -80,7 +80,7 @@ const SMF = () => {
                       src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
                       alt="Icatu Vanguarda"
                       className="object-contain"
-                      style={{ height: "50px", width: "auto" }}
+                      style={{ height: "70px", width: "auto" }}
                     />
                   </div>
                   <div className="flex items-center justify-center h-24">
