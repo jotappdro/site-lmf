@@ -121,6 +121,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -144,6 +145,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           14h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -168,6 +170,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           17h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -197,6 +200,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -221,6 +225,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -244,6 +249,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -268,6 +274,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -297,6 +304,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -321,6 +329,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -344,6 +353,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -368,6 +378,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                           <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
@@ -399,6 +410,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -422,6 +434,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           12h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -445,6 +458,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           15h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -468,6 +482,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -498,6 +513,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -522,6 +538,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
@@ -545,6 +562,7 @@ const SMF = () => {
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
+                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
