@@ -118,11 +118,11 @@ const SMF = () => {
                   <div>
                     <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Segunda-feira (25/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Trajetória de Carreira no Mercado Financeiro
@@ -165,11 +165,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           17h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Tendências Para a Economia Global
@@ -194,11 +194,11 @@ const SMF = () => {
                   <div>
                     <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Terça-feira (26/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
@@ -218,11 +218,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ativos Íliquidos
@@ -241,11 +241,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Brasil
@@ -265,11 +265,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Carreira em Bancos de Investimento
@@ -294,11 +294,11 @@ const SMF = () => {
                   <div>
                     <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Quarta-feira (27/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
@@ -318,11 +318,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Gestão de Fundos Multimercado
@@ -341,11 +341,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Estratégias de Crédito: Do High Grade ao Special Situations
@@ -365,11 +365,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ações Brasileiro
@@ -395,11 +395,11 @@ const SMF = () => {
                   <div>
                     <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Quinta-feira (28/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Atual do Mercado de Private Equity
@@ -418,11 +418,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           12h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Desafios Para o Sistema Financeiro Nacional
@@ -441,11 +441,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           15h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
@@ -464,11 +464,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Macroeconômico Global e Local
@@ -494,11 +494,11 @@ const SMF = () => {
                   <div>
                     <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Sexta-feira (29/08)</h4>
                     <div className="space-y-4">
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Futuro da Renda Fixa no Brasil
@@ -518,11 +518,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
@@ -541,11 +541,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Panorama Fiscal Brasileiro
