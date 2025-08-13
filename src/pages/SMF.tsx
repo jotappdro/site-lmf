@@ -80,7 +80,7 @@ const SMF = () => {
                       src={`${import.meta.env.BASE_URL}lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png`}
                       alt="Icatu Vanguarda"
                       className="object-contain"
-                      style={{ height: "70px", width: "auto" }}
+                      style={{ height: "50px", width: "auto" }}
                     />
                   </div>
                   <div className="flex items-center justify-center h-24">
@@ -141,11 +141,11 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap md:flex-nowrap items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="flex-shrink-0 text-lg font-medium text-financial-primary min-w-[60px] text-center">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           14h00
                         </div>
-                        <div className="w-1 bg-financial-primary rounded-full self-stretch min-h-[60px]"></div>
+                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
