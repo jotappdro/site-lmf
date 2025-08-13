@@ -379,7 +379,6 @@ const SMF = () => {
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
                           <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
