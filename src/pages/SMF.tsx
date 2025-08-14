@@ -311,7 +311,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
-                          <p className="text-gray-600 mb-4">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
+                          <p className="text-gray-600 mb-4 md:mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
                           <p className="text-gray-600 mb-1">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
