@@ -116,7 +116,7 @@ const SMF = () => {
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (25/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Segunda-feira (25/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Segunda-feira (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -195,7 +195,7 @@ const SMF = () => {
 
                   {/* Terça-feira (26/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Terça-feira (26/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Terça-feira (26/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -299,7 +299,7 @@ const SMF = () => {
 
                   {/* Quarta-feira (27/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Quarta-feira (27/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Quarta-feira (27/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -404,7 +404,7 @@ const SMF = () => {
 
                   {/* Quinta-feira (28/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Quinta-feira (28/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Quinta-feira (28/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -508,7 +508,7 @@ const SMF = () => {
 
                   {/* Sexta-feira (29/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-gray-900 mb-4">Sexta-feira (29/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Sexta-feira (29/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
