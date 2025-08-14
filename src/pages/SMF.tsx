@@ -88,7 +88,7 @@ const SMF = () => {
         <img
           src={`${import.meta.env.BASE_URL}${patrocinador.logo}`}
           alt={patrocinador.name}
-          className="object-contain h-12 w-auto"
+          className="object-contain h-12 max-w-[150px] md:h-16 md:max-w-[200px] w-auto"
         />
       </div>
     ))}
