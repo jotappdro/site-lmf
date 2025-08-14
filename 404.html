@@ -2,21 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Single Page Apps for GitHub Pages</title>
+    <title>Redirecting...</title>
     <script type="text/javascript">
-      // pega o url que o usuario tentou acessar 
-      var path = window.location.pathname;
+      // Guarda a URL original que o usuário tentou acessar
+      sessionStorage.redirect = location.href;
 
-      // pega o segmento do repositorio 
-      var segment = '/' + path.split('/')[1];
-
-      
-      window.location.replace(
-        window.location.protocol + '//' + window.location.host + segment +
-        '?p=' + path.slice(segment.length)
-      );
+      // Redireciona para a página inicial (index.html)
+      window.location.replace("/");
     </script>
   </head>
   <body>
+    <p>Redirecionando...</p>
   </body>
 </html>
