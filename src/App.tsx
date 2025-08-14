@@ -19,7 +19,7 @@ import Alumni from "./pages/Alumni";
 import { useEasterEgg } from "./hooks/useEasterEgg";
 import Starwalker from "./components/Starwalker";
 
-// FLUMINENSE
+// oiiiiiiiiiieeeee
 const queryClient = new QueryClient();
 
 const App = () => {
@@ -31,7 +31,7 @@ const App = () => {
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename="/site-lmf/">
           {/* O componente do Starwalker é renderizado aqui quando ativado */}
           <Starwalker isActive={activated} onComplete={deactivate} />
           
