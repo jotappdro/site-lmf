@@ -74,7 +74,7 @@ const SMF = () => {
               {/* Patrocinadores */}
               <div className="mb-20">
                 <h3 className="text-2xl font-semibold text-financial-primary mb-8">Patrocinadores</h3>
-                <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-14">
                   <div className="flex items-center justify-center h-24">
                     <img 
                       src={`${import.meta.env.BASE_URL}lovable-uploads/icatu2.png`}
@@ -96,7 +96,7 @@ const SMF = () => {
                       src={`${import.meta.env.BASE_URL}lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png`}
                       alt="TRUXT"
                       className="object-contain"
-                      style={{ height: "70px", width: "auto" }}
+                      style={{ height: "60px", width: "auto" }}
                     />
                   </div>
                   <div className="flex items-center justify-center h-24">
