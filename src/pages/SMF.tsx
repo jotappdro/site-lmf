@@ -79,7 +79,7 @@ const SMF = () => {
 
   <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
     {[
-      { name: 'Icatu Vanguarda', logo: 'lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png', isWide: true },
+      { name: 'Icatu Vanguarda', logo: 'lovable-uploads/Icatu2.jpg', isWide: true },
       { name: 'Sharp Capital', logo: 'lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png' },
       { name: 'TRUXT', logo: 'lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png' },
       { name: 'Vinci Compass', logo: 'lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png' }
