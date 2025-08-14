@@ -152,8 +152,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
-                          <p className="text-gray-600 mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
-                          <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Phillippe Perdigão (Investidor)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -207,8 +207,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
-                          <p className="text-gray-600">Pedro Rosset (Sócio da Sharp Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Pedro Rosset (Sócio da Sharp Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -256,8 +256,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Filosofias de Investimento no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
-                          <p className="text-gray-600">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -311,8 +311,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
-                          <p className="text-gray-600">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -360,8 +360,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Estratégias de Crédito: Do High Grade ao Special Situations
                           </h5>
-                          <p className="text-gray-600 mb-1">Rafael Fritsch (CIO da Root Capital)</p>
-                          <p className="text-gray-600">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Rafael Fritsch (CIO da Root Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -385,8 +385,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Mercado de Ações Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
-                          <p className="text-gray-600">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -416,7 +416,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Atual do Mercado de Private Equity
                           </h5>
-                          <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Eduardo Azevedo (Head de Private Equity do Opportunity)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -488,8 +489,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             Cenário Macroeconômico Global e Local
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
-                          <p className="text-gray-600">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -519,8 +520,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Futuro da Renda Fixa no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
-                          <p className="text-gray-600">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
@@ -568,8 +569,8 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-financial-primary mb-2">
                             O Panorama Fiscal Brasileiro
                           </h5>
-                          <p className="text-gray-600 mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
-                          <p className="text-gray-600">Paulo Val (Economista-Chefe da Occam Brasil)</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
+                          <p className="text-gray-600 mb-6 md:mb-1">Paulo Val (Economista-Chefe da Occam Brasil)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
