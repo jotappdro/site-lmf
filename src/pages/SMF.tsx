@@ -80,7 +80,7 @@ const SMF = () => {
                       src={`${import.meta.env.BASE_URL}lovable-uploads/icatu2.png`}
                       alt="Icatu Vanguarda"
                       className="object-contain"
-                      style={{ height: "75px", width: "auto" }}
+                      style={{ height: "80px", width: "auto" }}
                     />
                   </div>
                   <div className="flex items-center justify-center h-24">
@@ -116,16 +116,16 @@ const SMF = () => {
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (25/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Segunda-feira (25/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-primary mb-4">Segunda-feira (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h30
-                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
+                          <h5 className="text-lg font-semibold text-primary mb-2">
                             Trajetória de Carreira no Mercado Financeiro
                           </h5>
                           <p className="text-gray-600 mb-1">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
@@ -135,7 +135,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-trajetoria-no-mercado-financeiro/3072960"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]-primary/90 transition-colors font-medium"
+                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
