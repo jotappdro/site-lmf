@@ -72,28 +72,37 @@ const SMF = () => {
               </div>
 
               {/* Patrocinadores */}
-            <section className="mb-20">
-  <h3 className="text-2xl font-semibold text-financial-primary mb-8">
-    Patrocinadores
-  </h3>
+              const Patrocinadores = () => {
+  const patrocinadores = [
+    { name: 'Icatu Vanguarda', logo: 'lovable-uploads/734c39fb-ee22-49d8-98e1-f580172facd6.png', isWide: true },
+    { name: 'Sharp Capital', logo: 'lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png' },
+    { name: 'TRUXT', logo: 'lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png' },
+    { name: 'Vinci Compass', logo: 'lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png' }
+  ];
 
-  <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-    {[
-      { name: 'Icatu Vanguarda', logo: 'lovable-uploads/icatu2.png', isWide: true },
-      { name: 'Sharp Capital', logo: 'lovable-uploads/fbb57043-4d30-470d-8971-bc6e5cffb5b1.png' },
-      { name: 'TRUXT', logo: 'lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png' },
-      { name: 'Vinci Compass', logo: 'lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png' }
-    ].map((patrocinador) => (
-      <div key={patrocinador.name} className="flex flex-wrap justify-center items-center gap-12">
-        <img
-          src={`${import.meta.env.BASE_URL}${patrocinador.logo}`}
-          alt={patrocinador.name}
-          className="h-16 md:h-20 object-contain"
-        />
+  return (
+    <section className="mb-20">
+      <h3 className="text-2xl font-semibold text-financial-primary mb-8">
+        Patrocinadores
+      </h3>
+
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        {patrocinadores.map((patrocinador, index) => (
+          <div key={index} className="flex items-center justify-center h-24">
+            <img
+              src={`${import.meta.env.BASE_URL}${patrocinador.logo}`}
+              alt={patrocinador.name}
+              className="object-contain"
+              style={{ height: "50px", width: "auto" }}
+            />
+          </div>
+        ))}
       </div>
-    ))}
-  </div>
-</section>
+    </section>
+  );
+};
+
+export default Patrocinadores;
 
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
