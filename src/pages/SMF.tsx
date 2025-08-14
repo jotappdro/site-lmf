@@ -72,7 +72,7 @@ const SMF = () => {
               </div>
 
               {/* Patrocinadores */}
-              <div className="flex flex-col items-center" style={{ height: "300px" }}>">
+              <div className="flex flex-col items-center" style={{ height: "300px" }}>
                 <h3 className="text-2xl font-semibold text-financial-primary mb-8">Patrocinadores</h3>
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-16 justify-center">
                   <div className="flex-grow flex items-center">
