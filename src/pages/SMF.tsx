@@ -119,13 +119,13 @@ const SMF = () => {
                     <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Segunda-feira (25/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Trajetória de Carreira no Mercado Financeiro
                           </h5>
                           <p className="text-gray-600 mb-1">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
@@ -135,7 +135,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-trajetoria-no-mercado-financeiro/3072960"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -143,13 +143,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           14h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Como Pensam os Gestores de Ações
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
@@ -160,7 +160,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-como-pensam-os-gestores-de-acoes/3072976"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]-primary/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -168,13 +168,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           17h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Tendências Para a Economia Global
                           </h5>
                           <p className="text-gray-600 mb-1">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
@@ -184,7 +184,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-tendencias-para-a-economia-global/3072986"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -198,13 +198,13 @@ const SMF = () => {
                     <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Terça-feira (26/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Filosofias de Investimento no Cenário Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
@@ -215,7 +215,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-value-investing-e-estrategias-de-longo-prazo/3073386"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -223,13 +223,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             O Mercado de Ativos Íliquidos
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
@@ -239,7 +239,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-o-mercado-de-ativo-iliquidos/3073403"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -247,13 +247,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Filosofias de Investimento no Brasil
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
@@ -264,7 +264,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-filosofias-de-investimento-no-brasil/3073409"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -272,13 +272,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Carreira em Bancos de Investimento
                           </h5>
                           <p className="text-gray-600 mb-1">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
@@ -288,7 +288,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-carreira-em-bancos-de-investimento/3073431"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -302,13 +302,13 @@ const SMF = () => {
                     <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Quarta-feira (27/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           11h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Perspectivas de Investimentos em Ações e Trajetória
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
@@ -319,7 +319,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-perspectivas-de-investimentos-em-acoes-e-trajetoria/3072997"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -327,13 +327,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Gestão de Fundos Multimercado
                           </h5>
                           <p className="text-gray-600 mb-1">Fernando Monteiro (Gestor de Multimercado do Bradesco Asset)</p>
@@ -343,7 +343,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-gestao-de-fundos-multimercado/3073007"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -351,13 +351,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Estratégias de Crédito: Do High Grade ao Special Situations
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Rafael Fritsch (CIO da Root Capital)</p>
@@ -368,7 +368,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-estrategias-em-credito-e-special-situations/3073017"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -376,13 +376,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             O Mercado de Ações Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
@@ -393,7 +393,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-o-mercado-de-acoes-brasileiro/3073028"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -407,13 +407,13 @@ const SMF = () => {
                     <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Quinta-feira (28/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           10h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Cenário Atual do Mercado de Private Equity
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Eduardo Azevedo (Head de Private Equity do Opportunity)</p>
@@ -424,7 +424,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-cenario-atual-do-mercado-de-private-equity/3073453"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -432,13 +432,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           12h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Desafios Para o Sistema Financeiro Nacional
                           </h5>
                           <p className="text-gray-600 mb-1">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
@@ -448,7 +448,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-desafios-para-o-sistema-financeiro-nacional/3073465"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -456,13 +456,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           15h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Oportunidades e Riscos Para o Crédito Privado
                           </h5>
                           <p className="text-gray-600 mb-1">Bruno Spilberg (Principal e Gestor de Crédito da Vinci Compass)</p>
@@ -472,7 +472,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-oportunidades-e-riscos-para-o-credito-privado/3073479"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -480,13 +480,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Cenário Macroeconômico Global e Local
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
@@ -497,7 +497,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-cenario-macroeconomico-global-e-local/3073492"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -511,13 +511,13 @@ const SMF = () => {
                     <h4 className="text-[1.375rem] font-semibold text-[#1B3B6C] mb-4">Sexta-feira (29/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             O Futuro da Renda Fixa no Brasil
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
@@ -528,7 +528,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-o-futuro-da-renda-fixa-no-brasil/3073047"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -536,13 +536,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           16h00
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             Multi-Family Offices e a Gestão Patrimonial
                           </h5>
                           <p className="text-gray-600 mb-1">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
@@ -552,7 +552,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-multi-family-offices-e-a-gestao-patrimonial/3073055"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
@@ -560,13 +560,13 @@ const SMF = () => {
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-financial-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                        <div className="text-lg font-medium text-[#1B3B6C] mb-2 md:mb-0 md:min-w-[60px] text-center">
                           18h30
-                          <div className="block md:hidden h-0.5 bg-financial-primary mt-1 w-full rounded-full"></div>
+                          <div className="block md:hidden h-0.5 bg-[#1B3B6C] mt-1 w-full rounded-full"></div>
                         </div>
-                        <div className="hidden md:block w-1 bg-financial-primary rounded-full self-stretch"></div>
+                        <div className="hidden md:block w-1 bg-[#1B3B6C] rounded-full self-stretch"></div>
                         <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-financial-primary mb-2">
+                          <h5 className="text-lg font-semibold text-[#1B3B6C] mb-2">
                             O Panorama Fiscal Brasileiro
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
@@ -577,7 +577,7 @@ const SMF = () => {
                             href="https://www.sympla.com.br/evento/painel-o-panorama-fiscal-brasileiro/3073065"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="bg-financial-primary text-white px-6 py-2 rounded-lg hover:bg-financial-primary/90 transition-colors font-medium"
+                            className="bg-[#1B3B6C] text-white px-6 py-2 rounded-lg hover:bg-[#1B3B6C]/90 transition-colors font-medium"
                           >
                             Inscreva-se
                           </a>
