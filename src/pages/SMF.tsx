@@ -73,9 +73,9 @@ const SMF = () => {
 
              {/* Patrocinadores */}
 <div className="flex flex-col items-center justify-center py-8">
-  <h3 className="text-2xl font-semibold text-financial-primary mb-8">Patrocinadores</h3>
+  <h3 className="text-2xl font-semibold text-financial-primary mb-12">Patrocinadores</h3>
 
-  <div className="flex-grow flex items-center">
+  <div className="flex-grow flex items-center mb-12">
     <div className="grid grid-cols-1 md:grid-cols-4 gap-16 justify-center">
       <div className="flex items-center justify-center h-24">
         <img 
