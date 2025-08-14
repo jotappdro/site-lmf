@@ -204,7 +204,7 @@ const About = () => {
             
             {/* Conteúdo de texto */}
             <div className="flex-1">
-              <h3 className="text-xl font-normal text-primary mb-4 tracking-wide">
+              <h3 className="text-xl font-bold text-primary mb-4 tracking-wide">
                 A LMF PUC-RIO
               </h3>
               <p className="text-gray-600 text-lg leading-relaxed text-justify mb-4">
