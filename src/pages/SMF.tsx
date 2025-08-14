@@ -338,8 +338,9 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Conversa com a Dynamo: Pioneirismo e Princípios
+                            Investir no Longo Prazo
                           </h5>
+                          <p className="text-gray-600 mb-1">Bernardo Costa (Sócio da Dynamo)</p>
                           <p className="text-gray-600 mb-1">Fernando Pires (Sócio da Dynamo)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
