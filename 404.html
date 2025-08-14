@@ -1,17 +1,28 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script type="text/javascript">
-      // Guarda a URL original que o usuário tentou acessar
-      sessionStorage.redirect = location.href;
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/site-lmf/lovable-uploads/7b4b240f-a3a2-4d92-bcf5-9074e3a3f697.png" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LMF PUC-Rio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
 
-      // Redireciona para a página inicial (index.html)
-      window.location.replace("/");
+    <!-- Script para restaurar a rota após redirecionamento do 404.html -->
+    <script type="text/javascript">
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect != location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
     </script>
+    <script type="module" crossorigin src="/site-lmf/assets/index-B4yKOsa8.js"></script>
+    <link rel="stylesheet" crossorigin href="/site-lmf/assets/index-DxFY9TcU.css">
   </head>
   <body>
-    <p>Redirecionando...</p>
+    <div id="root"></div>
   </body>
 </html>
