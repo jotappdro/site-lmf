@@ -336,7 +336,7 @@ const SMF = () => {
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
+                        <div className="flex-1 text-center md:text-left">
                           <h5 className="text-lg font-semibold text-primary mb-2">
                             Investir no Longo Prazo
                           </h5>
