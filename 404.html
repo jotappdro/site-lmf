@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Guarda a URL original que o usuário tentou acessar
+      sessionStorage.redirect = location.href;
+
+      // Redireciona para a página inicial (index.html)
+      window.location.replace("/");
+    </script>
+  </head>
+  <body>
+    <p>Redirecionando...</p>
+  </body>
+</html>
