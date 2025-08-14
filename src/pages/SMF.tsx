@@ -84,7 +84,7 @@ const SMF = () => {
       { name: 'TRUXT', logo: 'lovable-uploads/44bc199c-a18d-4d2e-9a57-1880d16425e9.png' },
       { name: 'Vinci Compass', logo: 'lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png' }
     ].map((patrocinador) => (
-      <div key={patrocinador.name} className="flex items-center justify-center h-24">
+      <div key={patrocinador.name} className="flex flex-wrap justify-center gap-12">
         <img
           src={`${import.meta.env.BASE_URL}${patrocinador.logo}`}
           alt={patrocinador.name}
