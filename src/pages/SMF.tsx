@@ -234,7 +234,7 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Mercado de Ativos Íliquidos
+                            O Mercado de Ativos Ilíquidos
                           </h5>
                           <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
                         </div>
