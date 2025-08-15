@@ -523,7 +523,7 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Futuro da Renda Fixa no Brasil
+                            O Futuro do Crédito Privado no Brasil
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                           <p className="text-gray-600 mb-1">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
