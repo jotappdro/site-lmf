@@ -407,10 +407,6 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/lucas-falcomato-b558b5224/"
     },
     {
-      nome: "Lucas Leonardos",
-      linkedin: "https://linkedin.com/in/luizleonardos"
-    },
-    {
       nome: "Lucas Machado",
       linkedin: "https://www.linkedin.com/in/lucasmachadocr/"
     },
@@ -441,6 +437,10 @@ const Alumni = () => {
     {
       nome: "Luiz Felipe Bolonhez",
       linkedin: "https://linkedin.com/in/luizfelipebolonhez"
+    },
+    {
+      nome: "Luiz Leonardos",
+      linkedin: "https://linkedin.com/in/luizleonardos"
     },
     {
       nome: "Manuela Baggio",
