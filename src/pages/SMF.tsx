@@ -209,7 +209,7 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Filosofias de Investimento no Cenário Brasileiro
+                            Value Investing e Estratégias de Longo Prazo
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
                           <p className="text-gray-600 mb-1">Pedro Rosset (Sócio da Sharp Capital)</p>
