@@ -157,7 +157,7 @@ const SMF = () => {
                             Como Pensam os Gestores de Ações
                           </h5>
                           <p className="text-gray-600 mb-4 md:mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
-                          <p className="text-gray-600">Phillippe Perdigão (Investidor)</p>
+                          <p className="text-gray-600">Philippe Perdigão (Investidor)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
                           <a 
