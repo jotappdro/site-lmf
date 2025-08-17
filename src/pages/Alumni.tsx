@@ -27,6 +27,9 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/ana-maria-varela-a176a51ba/"
     },
     {
+      nome: "Anna Carolina Ottoni",
+      linkedin: "https://www.linkedin.com/in/annacarolinaottoni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    {
       nome: "Antonio Couto",
       linkedin: "https://www.linkedin.com/in/antonio-couto-548223297/"
     },
@@ -104,7 +107,7 @@ const Alumni = () => {
     },
     {
       nome: "Cláudio dos Anjos",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/cl%C3%A1udio-dos-anjos-46756b155/"
     },
     {
       nome: "Conrado van Erven",
@@ -281,6 +284,10 @@ const Alumni = () => {
     {
       nome: "Isadora Valle",
       linkedin: "https://www.linkedin.com/mwlite/in/isadora-valle-8847471a4"
+    },
+    {
+      nome: "João Alberto Pedroso",
+      linkedin: "https://www.linkedin.com/in/jo%C3%A3o-alberto-pedroso/"
     },
     {
       nome: "João Bernardo Oliveira",
@@ -475,6 +482,10 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/maria-eduarda-lima-a40b6614b/"
     },
     {
+      nome: "Maria Eugenia Araujo",
+      linkedin: "https://www.linkedin.com/in/mariaearaujov/"
+    },
+    {
       nome: "Maria Fernanda Leuzinger",
       linkedin: "https://www.linkedin.com/in/maria-fernanda-leuzinger-4a5319249/"
     },
@@ -557,6 +568,10 @@ const Alumni = () => {
     {
       nome: "Pedro Guedes",
       linkedin: "https://www.linkedin.com/in/pedro-guedes-6b3189156/"
+    },
+    {
+      nome: "Pedro Hartveld",
+      linkedin: "https://www.linkedin.com/in/pedro-galli-hartveld-37102268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       nome: "Pedro Henrique Santana",
