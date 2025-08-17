@@ -30,6 +30,7 @@ const Alumni = () => {
       nome: "Anna Carolina Ottoni",
       linkedin: "https://www.linkedin.com/in/annacarolinaottoni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
+    {
       nome: "Antonio Couto",
       linkedin: "https://www.linkedin.com/in/antonio-couto-548223297/"
     },
