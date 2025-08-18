@@ -330,7 +330,7 @@ const SMF = () => {
                         </div>
                       </div>
 
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                      <div className="flex flex-col md:flex-row md:items-center items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
                           13h30
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
