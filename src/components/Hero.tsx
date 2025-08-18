@@ -20,16 +20,20 @@ const Hero = () => {
           {/* Alinhamento de texto e padding ajustados */}
           <div className="max-w-md text-center lg:text-right">
             {/* Tamanho da fonte ajustado */}
-            <p 
-              className="
-              absolute top-4 left-4
-              lg:static lg:mx-auto lg:text-center
-              z-20
-              text-white text-xl lg:text-2xl font-bold leading-relaxed drop-shadow-lg
-              "
-              >
-              There is no elevator to success, you have to take the stairs
-            </p>
+           <p 
+  className="
+    absolute 
+    top-[15%]   /* altura em relação à section */
+    left-1/2    /* centraliza horizontalmente */
+    -translate-x-1/2
+    text-white text-xl lg:text-2xl font-bold leading-relaxed drop-shadow-lg
+    z-20
+    text-center
+  "
+>
+  There is no elevator to success, you have to take the stairs
+</p>
+
 
           </div>
         </div>
