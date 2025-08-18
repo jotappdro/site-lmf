@@ -340,7 +340,7 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-primary mb-2">
                             Investir no Longo Prazo
                           </h5>
-                          <p className="text-gray-600 mb-1">Bernardo Costa (Sócio da Dynamo)</p>
+                          <p className="text-gray-600 mb-4 md:mb-1">Bernardo Costa (Sócio da Dynamo)</p>
                           <p className="text-gray-600 mb-1">Fernando Pires (Sócio da Dynamo)</p>
                         </div>
                         <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
