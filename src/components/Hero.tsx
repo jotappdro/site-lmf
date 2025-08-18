@@ -1,8 +1,11 @@
-import { ArrowDown } from 'lucide-react';
+import { ArrowDown } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section id="home" className="h-screen lg:h-[115vh] relative overflow-hidden">
+    <section
+      id="home"
+      className="h-screen lg:h-[115vh] relative overflow-hidden"
+    >
       {/* Background */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
@@ -11,12 +14,13 @@ const Hero = () => {
         }}
       />
 
-      {/* FRASE — centralizada verticalmente, na parte direita, e com alinhamento de texto central */}
+      {/* FRASE — centralizada verticalmente, na parte direita */}
       <div className="absolute inset-y-0 right-4 sm:right-6 lg:right-[10%] z-30 flex items-center">
         <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
-  There is no elevator to success,<br />
-  you have to take the stairs
-</p>
+          There is no elevator to success,<br />
+          you have to take the stairs
+        </p>
+      </div>
 
       {/* Scroll Indicator */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
