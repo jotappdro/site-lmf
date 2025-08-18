@@ -23,17 +23,18 @@ const Hero = () => {
            <p 
   className="
     absolute 
-    top-[15%] right-4 text-right   /* MOBILE → margem direita */
+    top-[15%] right-4 text-right   /* MOBILE → canto superior direito */
     text-white text-xl font-bold leading-relaxed drop-shadow-lg
     z-20
 
-    lg:top-[20%] lg:right-12 lg:text-right   /* DESKTOP → continua à direita */
-    lg:left-auto lg:translate-x-0
+    lg:top-[20%] lg:left-1/2 lg:-translate-x-1/2 /* DESKTOP → centralizado na tela */
+    lg:text-center lg:right-auto
     lg:text-2xl
   "
 >
   There is no elevator to success, you have to take the stairs
 </p>
+
 
 
 
