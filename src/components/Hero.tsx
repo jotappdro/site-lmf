@@ -2,53 +2,29 @@ import { ArrowDown } from 'lucide-react';
 
 const Hero = () => {
   return (
-    // Altura ajustada para mobile e desktop
-    <section id="home" className="h-screen lg:h-[115vh] flex items-center justify-center relative overflow-hidden">
-      {/* Background Image - Nenhuma mudança necessária aqui */}
-      <div 
+    <section id="home" className="h-screen lg:h-[115vh] relative overflow-hidden">
+      {/* Background */}
+      <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url(${import.meta.env.BASE_URL}lovable-uploads/9ca7c56e-b50b-4fec-a89a-be7ddf646991.png)`
+          backgroundImage: `url(${import.meta.env.BASE_URL}lovable-uploads/9ca7c56e-b50b-4fec-a89a-be7ddf646991.png)`,
         }}
-      ></div>
-      
-      {/* Content */}
-      {/* Layout ajustado para ser centralizado no mobile e à direita no desktop */}
-      <div className="container mx-auto px-6 relative z-10 flex items-center justify-center lg:justify-end h-full">
-        {/* Frase Motivacional */}
-        <div className="flex-1 flex justify-center lg:justify-end lg:pr-16">
-          {/* Alinhamento de texto e padding ajustados */}
-          <div className="max-w-md text-center lg:text-right">
-            {/* Tamanho da fonte ajustado */}
-           <p 
-  className="
-    absolute 
-    top-[15%] right-4 text-right   /* MOBILE → canto superior direito */
-    text-white text-xl font-bold leading-relaxed drop-shadow-lg
-    z-20
+      />
 
-    lg:top-[20%] lg:left-1/2 lg:-translate-x-1/2 /* DESKTOP → centralizado na tela */
-    lg:text-center lg:right-auto
-    lg:text-2xl
-  "
->
-  There is no elevator to success, you have to take the stairs
-</p>
-
-
-
-
-          </div>
-        </div>
+      {/* FRASE — centralizada verticalmente, na parte direita, e com alinhamento de texto central */}
+      <div className="absolute inset-y-0 right-4 sm:right-6 lg:right-[10%] z-30 flex items-center">
+        <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
+          There is no elevator to success, you have to take the stairs
+        </p>
       </div>
-      
-      {/* Scroll Indicator - Nenhuma mudança necessária aqui */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+
+      {/* Scroll Indicator */}
+      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
         <ArrowDown className="w-6 h-6 text-white/60" />
       </div>
-      
-      {/* Detalhe arredondado - Nenhuma mudança necessária aqui */}
-      <div className="absolute bottom-0 left-0 right-0 h-16 bg-white rounded-t-[40px] z-20"></div>
+
+      {/* Detalhe arredondado */}
+      <div className="absolute bottom-0 left-0 right-0 h-16 bg-white rounded-t-[40px] z-20" />
     </section>
   );
 };
