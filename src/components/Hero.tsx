@@ -15,12 +15,14 @@ const Hero = () => {
       />
 
       {/* FRASE — centralizada verticalmente, na parte direita */}
-      <div className="absolute inset-y-0 right-4 sm:right-6 lg:right-[10%] z-30 flex items-center">
+      <div className="absolute top-[80px] sm:top-1/2 right-4 sm:right-6 lg:right-[10%] z-30 flex items-start sm:items-center">
         <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
           There is no elevator to success,<br />
           you have to take the stairs
         </p>
       </div>
+
+
 
       {/* Scroll Indicator */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
