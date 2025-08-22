@@ -11,10 +11,6 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/amanda-gammaro-27b5021ba/"
     },
     {
-      nome: "Ana Carolina Barbosa",
-      linkedin: "http://linkedin.com/in/annacarolinaottoni"
-    },
-    {
       nome: "Ana Carolina Prates",
       linkedin: "https://www.linkedin.com/in/ana-carolina-trindade-prates-275489181"
     },
