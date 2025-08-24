@@ -11,6 +11,10 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/amanda-gammaro-27b5021ba/"
     },
     {
+      nome: "Iann Soffried",
+      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
+    },
+    {
       nome: "Ana Carolina Prates",
       linkedin: "https://www.linkedin.com/in/ana-carolina-trindade-prates-275489181"
     },
@@ -277,10 +281,6 @@ const Alumni = () => {
     {
       nome: "Igor Burchardt",
       linkedin: "https://www.linkedin.com/in/igor-burchardt/"
-    },
-    {
-      nome: "Iann Soffried",
-      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
     },
     {
       nome: "Isadora Valle",
