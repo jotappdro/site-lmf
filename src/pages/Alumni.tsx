@@ -275,10 +275,6 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/gustavo-telles-demenezes/"
     },
     {
-      nome: "Iann Soffried",
-      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
-    },
-    {
       nome: "Igor Burchardt",
       linkedin: "https://www.linkedin.com/in/igor-burchardt/"
     },

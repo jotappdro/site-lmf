@@ -116,6 +116,12 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/gustavo-levy-00366035b/"
     },
     {
+      nome: "Iann Soffried",
+      cargo: "Prod. de Conteúdo",
+      foto: "lovable-uploads/cb4d6776-313a-4c15-9473-2b66fee20c7f.png",
+      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
+    },
+    {
       nome: "Pedro Cafasso",
       cargo: "Competições",
       foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
