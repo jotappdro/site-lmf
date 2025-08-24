@@ -279,6 +279,10 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/igor-burchardt/"
     },
     {
+      nome: "Iann Soffried",
+      linkedin: "https://www.linkedin.com/in/iann-soffried-ab5679332/"
+    },
+    {
       nome: "Isadora Valle",
       linkedin: "https://www.linkedin.com/mwlite/in/isadora-valle-8847471a4"
     },
