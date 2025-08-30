@@ -71,7 +71,7 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/bernardo-afonso-soares/"
     },
     {
-      nome: "Breno França",
+      nome: "Breno Franca",
       linkedin: "https://www.linkedin.com/in/breno-ben-pivoto-alves-franca-3a07a926b/"
     },
     {
