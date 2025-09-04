@@ -10,6 +10,7 @@ import Index from "./pages/Index";
 import Equipe from "./pages/Equipe";
 import SMF from "./pages/SMF";
 import Projetos from "./pages/Projetos";
+import Artigos from "./pages/Artigos";
 import LMFCast from "./pages/LMFCast";
 import LMFJournal from "./pages/LMFJournal";
 import Competicoes from "./pages/Competicoes";
@@ -41,6 +42,7 @@ const App = () => {
             <Route path="/equipe" element={<Equipe />} />
             <Route path="/smf" element={<SMF />} />
             <Route path="/projetos" element={<Projetos />} />
+            <Route path="/artigos" element={<Artigos />} />
             <Route path="/lmf-cast" element={<LMFCast />} />
             <Route path="/lmf-journal" element={<LMFJournal />} />
             <Route path="/competicoes" element={<Competicoes />} />
