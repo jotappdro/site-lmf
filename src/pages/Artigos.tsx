@@ -8,50 +8,10 @@ import { ExternalLink, User, Calendar } from 'lucide-react';
 const artigos = [
   {
     id: 1,
-    titulo: "Análise do Mercado de Renda Fixa em 2024",
-    autor: "João Silva",
-    data: "2024-12-01",
+    titulo: "I.A.: Entre Otimismo e Volatilidade",
+    autor: "João Pedro Souza",
+    data: "2024-10-13",
     capa: "/lovable-uploads/065173d1-c0be-410e-a451-2b4c4be920b1.png",
-    pdfUrl: "#"
-  },
-  {
-    id: 2,
-    titulo: "O Futuro das Criptomoedas no Brasil",
-    autor: "Maria Santos",
-    data: "2024-11-15",
-    capa: "/lovable-uploads/10bee1e7-4332-49ea-8c05-13f15293d65b.png",
-    pdfUrl: "#"
-  },
-  {
-    id: 3,
-    titulo: "Estratégias de Investimento em Ações",
-    autor: "Pedro Costa",
-    data: "2024-11-01",
-    capa: "/lovable-uploads/14719a58-7918-4855-a311-0bfd13f5b2bb.png",
-    pdfUrl: "#"
-  },
-  {
-    id: 4,
-    titulo: "Mercado Imobiliário: Tendências 2025",
-    autor: "Ana Oliveira",
-    data: "2024-10-20",
-    capa: "/lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
-    pdfUrl: "#"
-  },
-  {
-    id: 5,
-    titulo: "Fundos de Investimento: Guia Completo",
-    autor: "Carlos Mendes",
-    data: "2024-10-05",
-    capa: "/lovable-uploads/15250259-5fc9-4837-8c62-5147286b4b7c.png",
-    pdfUrl: "#"
-  },
-  {
-    id: 6,
-    titulo: "ESG: Investimentos Sustentáveis",
-    autor: "Luciana Ferreira",
-    data: "2024-09-18",
-    capa: "/lovable-uploads/18e09f74-1090-483f-af8d-211ba0bbb315.png",
     pdfUrl: "#"
   }
 ];
