@@ -11,7 +11,7 @@ const artigos = [
     titulo: "I.A.: Entre Otimismo e Volatilidade",
     autor: "João Pedro Souza",
     data: "2024-10-13",
-    capa: "/lovable-uploads/065173d1-c0be-410e-a451-2b4c4be920b1.png",
+    capa: "/lovable-uploads/468e86_4d5efc992f4740b4a5b2b371a250f53d~mv2.jpg",
     pdfUrl: "#"
   }
 ];
