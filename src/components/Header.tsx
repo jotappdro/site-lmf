@@ -14,6 +14,7 @@ const Header = () => {
       href: '#',
       hasDropdown: true,
       dropdownItems: [
+        { name: 'ARTIGOS', href: '/artigos' },
         { name: 'LMF CAST', href: '/lmf-cast' },
         { name: 'LMF JOURNAL', href: '/lmf-journal' },
       ]
