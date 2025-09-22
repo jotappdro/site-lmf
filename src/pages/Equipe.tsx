@@ -23,12 +23,6 @@ const Equipe = () => {
 
   const associadosSeniors = [
     {
-      nome: "Artur Daher",
-      cargo: "Diretor de Competições",
-      foto: "lovable-uploads/6c36358f-4854-4c6e-b921-9afc07a151b7.png",
-      linkedin: "https://www.linkedin.com/in/artur-daher-moura-284a67306/"
-    },
-    {
       nome: "Francisco Brito",
       cargo: "Diretor de Competições",
       foto: "lovable-uploads/3a1cd365-94d5-4e94-9516-deea28696c98.png",
