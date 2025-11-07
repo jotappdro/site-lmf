@@ -41,11 +41,6 @@ const SMF = () => {
       panels: "12 painéis realizados.",
       sponsors: "Patrocinado pela Icatu Vanguarda, JGP, Opportunity, Sharp, TRUXT e Vinci Partners."
     }
-    {
-      edition: "8ª SMF – 2025",
-      panels: "18 painéis realizados.",
-      sponsors: "Patrocinado pela Icatu Vanguarda, Sharp, TRUXT e Vinci Compass."
-    }
   ];
 
   return (
