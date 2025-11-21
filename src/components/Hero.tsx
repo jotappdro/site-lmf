@@ -13,13 +13,20 @@ const Hero = () => {
           backgroundImage: `url(${import.meta.env.BASE_URL}lovable-uploads/9ca7c56e-b50b-4fec-a89a-be7ddf646991.png)`,
         }}
       />
+      
+      {/* Dark Overlay */}
+      <div className="absolute inset-0 bg-black/50 z-10" />
 
-      {/* FRASE — centralizada verticalmente, na parte direita */}
-      <div className="absolute top-[140px] sm:top-1/2 right-4 sm:right-6 lg:right-[10%] z-30 flex items-start sm:items-center">
-        <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
-          There is no elevator to success,<br />
-          you have to take the stairs
-        </p>
+      {/* TEXTO PRINCIPAL — Palestra */}
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30 w-full px-6 flex items-center justify-center">
+        <a 
+          href="https://docs.google.com/forms/d/e/1FAIpQLScvdrAb3kqtIQMw7rwHKfIBTYeTZphYvlt_DxZhXZj6-Wv4QQ/viewform"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="max-w-4xl text-center text-white text-2xl sm:text-3xl lg:text-4xl font-bold leading-relaxed drop-shadow-2xl hover:scale-105 transition-transform duration-300 cursor-pointer"
+        >
+          Inscreva-se: Lições e História do Fundador do Garantia e Pactual com Luiz Cesar Fernandes
+        </a>
       </div>
 
 
