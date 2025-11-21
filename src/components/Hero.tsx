@@ -1,4 +1,5 @@
 import { ArrowDown } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 const Hero = () => {
   return (
@@ -18,15 +19,23 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/50 z-10" />
 
       {/* TEXTO PRINCIPAL — Palestra */}
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30 w-full px-6 flex items-center justify-center">
-        <a 
-          href="https://docs.google.com/forms/d/e/1FAIpQLScvdrAb3kqtIQMw7rwHKfIBTYeTZphYvlt_DxZhXZj6-Wv4QQ/viewform"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="max-w-4xl text-center text-white text-2xl sm:text-3xl lg:text-4xl font-bold leading-relaxed drop-shadow-2xl hover:scale-105 transition-transform duration-300 cursor-pointer"
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30 w-full px-6 flex flex-col items-center justify-center gap-6">
+        <h1 className="max-w-4xl text-center text-white text-2xl sm:text-3xl lg:text-4xl font-bold leading-relaxed drop-shadow-2xl">
+          Lições e História do Fundador do Garantia e Pactual com Luiz Cesar Fernandes
+        </h1>
+        <Button 
+          asChild
+          size="lg"
+          className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold text-lg px-8 py-6 shadow-xl"
         >
-          Inscreva-se: Lições e História do Fundador do Garantia e Pactual com Luiz Cesar Fernandes
-        </a>
+          <a 
+            href="https://docs.google.com/forms/d/e/1FAIpQLScvdrAb3kqtIQMw7rwHKfIBTYeTZphYvlt_DxZhXZj6-Wv4QQ/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Inscreva-se!
+          </a>
+        </Button>
       </div>
 
 
