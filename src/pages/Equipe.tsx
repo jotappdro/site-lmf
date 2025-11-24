@@ -128,12 +128,6 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
     },
     {
-      nome: "Thiago Nasseh",
-      cargo: "Competições",
-      foto: "lovable-uploads/ed1ecb68-0f88-4797-8dc4-e76613e1c0ca.png",
-      linkedin: "https://www.linkedin.com/in/thiagonasseh/"
-    },
-    {
       nome: "Victor Messer",
       cargo: "Pessoas",
       foto: "lovable-uploads/1f5ed056-58fd-45b5-9b65-adb76e2f40dd.png",
