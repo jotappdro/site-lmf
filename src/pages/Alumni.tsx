@@ -16,7 +16,7 @@ const Alumni = () => {
     },
     {
       nome: "Ana Carolina Prates",
-      linkedin: "https://www.linkedin.com/in/ana-carolina-prates/ "
+      linkedin: "https://www.linkedin.com/in/ana-carolina-prates/  "
     },
     {
       nome: "Ana Carolina Schneider",
