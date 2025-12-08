@@ -40,7 +40,7 @@ const Alumni = () => {
     },
     {
       nome: "Antonio Rocha",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/antonio-rocha-57033b1b5/ "
     },
     {
       nome: "Alvaro Borges",
@@ -649,7 +649,7 @@ const Alumni = () => {
     },
     {
       nome: "Rodrigo Borges",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/rodrigo-borges-0b4a821b5/ "
     },
     {
       nome: "Rodrigo Dale",
@@ -709,7 +709,7 @@ const Alumni = () => {
     },
     {
       nome: "Vivian Balthazar",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/vivian-balthazar/"
     }
   ].sort((a, b) => a.nome.localeCompare(b.nome));
 
