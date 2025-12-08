@@ -200,7 +200,7 @@ const Alumni = () => {
     },
     {
       nome: "Frederico Perlott",
-      linkedin: "https://www.linkedin.com/in/frederico-perlott-509415186/"
+      linkedin: "https://www.linkedin.com/in/frederico-perlott-509415186/ "
     },
     {
       nome: "Gabriel Ambram",
