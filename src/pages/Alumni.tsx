@@ -128,7 +128,7 @@ const Alumni = () => {
     },
     {
       nome: "Davi Gusmão",
-      linkedin: "https://linkedin.com/in/davigusmao"
+      linkedin: "https://www.linkedin.com/in/davi-bhering-gusm%C3%A3o-399612114/"
     },
     {
       nome: "Eduardo Aché",
@@ -200,7 +200,7 @@ const Alumni = () => {
     },
     {
       nome: "Frederico Perlott",
-      linkedin: "https://www.linkedin.com/in/frederico-perlott-ramos-509415186"
+      linkedin: "https://www.linkedin.com/in/frederico-perlott-509415186/"
     },
     {
       nome: "Gabriel Ambram",
