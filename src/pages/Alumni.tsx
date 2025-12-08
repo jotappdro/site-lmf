@@ -284,7 +284,8 @@ const Alumni = () => {
     },
     {
       nome: "Isadora Valle",
-      linkedin: "https://www.linkedin.com/mwlite/in/isadora-valle-8847471a4"
+      linkedin: "https://www.linkedin.com/in/isadora-valle-8847471a4/ "
+    
     },
     {
       nome: "João Alberto Pedroso",
