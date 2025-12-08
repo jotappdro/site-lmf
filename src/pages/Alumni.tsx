@@ -128,7 +128,7 @@ const Alumni = () => {
     },
     {
       nome: "Davi Gusmão",
-      linkedin: "https://www.linkedin.com/in/davi-bhering-gusm%C3%A3o-399612114/"
+      linkedin: "https://www.linkedin.com/in/davi-bhering-gusm%C3%A3o-399612114/ "
     },
     {
       nome: "Eduardo Aché",
