@@ -325,7 +325,7 @@ const Alumni = () => {
     },
     {
       nome: "João Pedro Cunha",
-      linkedin: "https://www.linkedin.com/in/joao-pedro-khair-cunha/"
+      linkedin: "https://www.linkedin.com/in/jpkcunha/details/experience/ "
     },
     {
       nome: "João Pedro Goes",
@@ -349,7 +349,7 @@ const Alumni = () => {
     },
     {
       nome: "João Rafael Santillo",
-      linkedin: "https://linkedin.com/in/joaorafaelsantillo"
+      linkedin: "https://www.linkedin.com/in/jo%C3%A3orafaelsantillo/details/experience/ "
     },
     {
       nome: "João Vitor Faveret",
@@ -365,7 +365,7 @@ const Alumni = () => {
     },
     {
       nome: "José Carlos Bolonhez",
-      linkedin: "https://www.linkedin.com/in/jos%C3%A9-carlos-bolonhez-223072182"
+      linkedin: "https://www.linkedin.com/in/luiz-felipe-bolonhez-b9a4b011a/details/experience/ "
     },
     {
       nome: "Julia Abreu",
@@ -449,7 +449,7 @@ const Alumni = () => {
     },
     {
       nome: "Luiz Leonardos",
-      linkedin: "https://linkedin.com/in/luizleonardos"
+      linkedin: "https://www.linkedin.com/in/luiz-burin-leonardos-66b896178/ "
     },
     {
       nome: "Manuela Baggio",
@@ -521,7 +521,7 @@ const Alumni = () => {
     },
     {
       nome: "Matheus Salim",
-      linkedin: "https://www.linkedin.com/in/matheus-salim-tavares-02645516a"
+      linkedin: "https://www.linkedin.com/in/matheus-salim-02645516a/ "
     },
     {
       nome: "Michel Said Nigri",
