@@ -317,7 +317,7 @@ const Alumni = () => {
     },
     {
       nome: "João Pedro Aquino",
-      linkedin: "https://linkedin.com/in/joaopedroaquino"
+      linkedin: "https://www.linkedin.com/in/joaoaquino1/details/experience/ "
     },
     {
       nome: "João Pedro Botelho",
