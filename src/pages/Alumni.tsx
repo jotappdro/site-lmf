@@ -86,9 +86,17 @@ const Alumni = () => {
       nome: "Bruna Machado",
       linkedin: "https://www.linkedin.com/in/bruna-machado-b9401a1b0/"
     },
+     {
+      nome: "Bruna Almeida",
+      linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
+    },
     {
       nome: "Camila Kneitz",
       linkedin: "https://www.linkedin.com/in/camilakneitz/"
+    },
+     {
+      nome: "Carlos Eduardo Fragozo",
+      linkedin: "https://www.linkedin.com/in/carlos-eduardo-fragozo-6606362b6/"
     },
     {
       nome: "Carolina Blank",
@@ -97,6 +105,10 @@ const Alumni = () => {
     {
       nome: "Carolina Kircher",
       linkedin: "https://www.linkedin.com/in/carolina-kircher-hersk/"
+    },
+    {
+      nome: "Carolina Freitas",
+      linkedin: "https://www.linkedin.com/in/carolina-lorena-freitas-423863364/"
     },
     {
       nome: "Catarina Lobo",
@@ -254,6 +266,10 @@ const Alumni = () => {
       nome: "Gabriela Sigelmann",
       linkedin: "https://www.linkedin.com/in/gabriela-sigelmann-8a29bb309/"
     },
+     {
+      nome: "Gabriela Musa",
+      linkedin: "https://www.linkedin.com/in/gabriela-musa-367174368/"
+    },
     {
       nome: "Giovanni Jobim",
       linkedin: "https://www.linkedin.com/in/giovanni-jobim-798528207/"
@@ -274,9 +290,25 @@ const Alumni = () => {
       nome: "Gustavo Saramago",
       linkedin: ""
     },
+     {
+      nome: "Guilherme Caruso",
+      linkedin: "https://www.linkedin.com/in/guilherme-rh-caruso/"
+    },
     {
       nome: "Gustavo Telles",
       linkedin: "https://www.linkedin.com/in/gustavo-telles-demenezes/"
+    },
+    {
+      nome: "Gustavo Nigri",
+      linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
+    },
+    {
+      nome: "Gustavo Geller",
+      linkedin: "https://www.linkedin.com/in/gustavo-kallmann-geller-861a70226/"
+    },
+    {
+      nome: "Gustavo Levy",
+      linkedin: "https://www.linkedin.com/in/gustavo-levy-00366035b/"
     },
     {
       nome: "Igor Burchardt",
@@ -556,6 +588,18 @@ const Alumni = () => {
       linkedin: "https://www.linkedin.com/in/pedro-alves747/"
     },
     {
+      nome: "Pedro Antonio Cafasso",
+      linkedin: "https://www.linkedin.com/in/pedro-antonio-cafasso-a0b7391bb/"
+    },
+    {
+      nome: "Pedro Kottler",
+      linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
+    },
+    {
+      nome: "Pedro Svartmann",
+      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
+    },
+    {
       nome: "Pedro Arthur Bevilaqua",
       linkedin: "https://www.linkedin.com/in/pedro-arthur-bevilaqua/"
     },
@@ -702,6 +746,10 @@ const Alumni = () => {
     {
       nome: "Vinícius Abreu",
       linkedin: "https://www.linkedin.com/in/vinicius-abreuu/"
+    },
+    {
+      nome: "Victor Messer",
+      linkedin: "https://www.linkedin.com/in/victor-messer-678463369/"
     },
     {
       nome: "Vitor Schmidt",
