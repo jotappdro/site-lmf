@@ -11,7 +11,7 @@ const Competicoes = () => {
       tipo: "2º Lugar",
       descricao: "Os associados Carlos Eduardo Fragozo e Pedro Kottler alcançaram o segundo lugar da 4ª edição do Desafio Opportunity. Nesta edição, o case envolveu uma análise qualitativa e quantitativa da Smart Fit, culminando em uma apresentação final para uma banca formada pelos sócios do Opportunity e pelo próprio CEO da empresa, Edgard Corona.",
       resultado: "2º Lugar",
-      imagem: "lovable-uploads/opp25.JPG",
+      imagem: "lovable-uploads/opp252.JPG",
       imagePosition: "object-[center_15%]"
     },
        {
