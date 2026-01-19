@@ -9,9 +9,17 @@ const Competicoes = () => {
         {
       nome: "Desafio Opportunity 2025",
       tipo: "2º Lugar",
-      descricao: "Os associados Carlos Eduardo Fragozo e Pedro Kottler alcançaram o segundo lugar da 8ª edição do Desafio Opportunity. Nesta edição, o case envolveu uma análise qualitativa e quantitativa da Smart Fit, culminando em uma apresentação final para uma banca formada pelos sócios do Opportunity e pelo próprio CEO da empresa, Edgard Corona.",
+      descricao: "Os associados Carlos Eduardo Fragozo e Pedro Kottler alcançaram o segundo lugar da 4ª edição do Desafio Opportunity. Nesta edição, o case envolveu uma análise qualitativa e quantitativa da Smart Fit, culminando em uma apresentação final para uma banca formada pelos sócios do Opportunity e pelo próprio CEO da empresa, Edgard Corona.",
       resultado: "2º Lugar",
       imagem: "lovable-uploads/WhatsApp Image 2026-01-18 at 20.42.34.jpeg",
+      imagePosition: "object-[center_15%]"
+    },
+       {
+      nome: "Prêmio Turim 2025",
+      tipo: "2º Lugar",
+      descricao: "As associadas Carolina Freitas e Gabriela Musa alcançaram o segundo lugar da 8ª edição do Prêmio Turim. Nesta edição, o case do desafio foi estruturado em três frentes complementares: a tese de longevidade, escolhendo e analisando uma empresa que capturasse a tendência; a construção de um portfólio por fase de vida; e o papel do family office.",
+      resultado: "2º Lugar",
+      imagem: "lovable-uploads/WhatsApp Image 2026-01-18 at 21.13.44.jpeg",
       imagePosition: "object-[center_15%]"
     },
     {
