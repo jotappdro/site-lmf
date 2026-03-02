@@ -16,10 +16,20 @@ const Hero = () => {
 
       {/* FRASE — centralizada verticalmente, na parte direita */}
       <div className="absolute top-[140px] sm:top-1/2 right-4 sm:right-6 lg:right-[10%] z-30 flex items-start sm:items-center">
-        <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
-          There is no elevator to success,<br />
-          you have to take the stairs
-        </p>
+      <div className="flex flex-col items-center gap-6">
+          <p className="max-w-[32rem] text-center text-white text-xl sm:text-2xl font-bold leading-relaxed drop-shadow-lg">
+            There is no elevator to success,<br />
+            you have to take the stairs
+          </p>
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdPzPGg2Za7n26GFh6zO7vtU3sL3qOdMGkWd6KwnsGEePD1Fw/viewform?usp=header"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 bg-primary text-primary-foreground font-bold text-sm sm:text-base rounded-md hover:bg-primary/90 transition-colors shadow-lg"
+          >
+            INSCREVA-SE PARA O PS 2026.1
+          </a>
+        </div>
       </div>
 
 
