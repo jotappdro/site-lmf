@@ -12,7 +12,7 @@ const artigos = [
     autor: "João Pedro Souza",
     data: "2024-10-13",
     capa: "/lovable-uploads/468e86_4d5efc992f4740b4a5b2b371a250f53d~mv2.jpg",
-    pdfUrl: "https://drive.google.com/file/d/1zP5ExqBAzvmwCAiVkokbZUIabWNhN26P/view?usp=drive_link"
+    pdfUrl: "/pdfs/ia-entre-otimismo-e-volatilidade.pdf"
   }
 ];
 
