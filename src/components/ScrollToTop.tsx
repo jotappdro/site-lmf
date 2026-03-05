@@ -1,12 +1,16 @@
-import { useEffect } from 'react';
+import { useLayoutEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
 const ScrollToTop = () => {
-  const { pathname } = useLocation();
+  const { pathname, hash } = useLocation();
 
-  useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }, [pathname]);
+  useLayoutEffect(() => {
+    // Don't scroll if navigating to an anchor within the same page
+    if (hash) return;
+    
+    // Force immediate scroll to top before the browser paints
+    window.scrollTo(0, 0);
+  }, [pathname, hash]);
 
   return null;
 };
