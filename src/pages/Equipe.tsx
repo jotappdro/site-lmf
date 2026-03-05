@@ -35,34 +35,10 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/carolina-freitas-423863364/"
     },
     {
-      nome: "Francisco Brito",
-      cargo: "Diretor de Competições",
-      foto: "lovable-uploads/3a1cd365-94d5-4e94-9516-deea28696c98.png",
-      linkedin: "https://www.linkedin.com/in/francisco-de-filippo-brito-455b352b5/"
-    },
-    {
-      nome: "Gabriel Stanger",
-      cargo: "Diretor de Produção de Conteúdo",
-      foto: "lovable-uploads/c33f87b9-0bf6-46f2-9ced-39bd8d6774ec.png",
-      linkedin: "https://www.linkedin.com/in/gabriel-stanger/"
-    },
-    {
-      nome: "Gabriela Sigelmann",
-      cargo: "Diretora de Eventos",
-      foto: "lovable-uploads/b74296b3-6e91-4b1e-8514-e535073fb52e.png",
-      linkedin: "https://www.linkedin.com/in/gabriela-sigelmann-8a29bb309/"
-    },
-    {
       nome: "Gustavo Nigri",
       cargo: "Direto de Eventos",
       foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png",
       linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
-    },
-    {
-      nome: "Lucca Mothe",
-      cargo: "Diretor de Eventos",
-      foto: "lovable-uploads/8f46895b-3dd7-4e4c-bd48-a7da06f4cfb2.png",
-      linkedin: "https://www.linkedin.com/in/lucca-emery-mothe-bb2b242b1/"
     },
     {
       nome: "Pedro Cafasso",
@@ -78,12 +54,6 @@ const Equipe = () => {
       cargo: "Competições",
       foto: "lovable-uploads/6f94c149-4b92-49db-899c-8ef632309cf8.png",
       linkedin: "https://www.linkedin.com/in/carlos-eduardo-fragozo-6606362b6/"
-    },
-    {
-      nome: "Felipe Pires",
-      cargo: "Pessoas",
-      foto: "lovable-uploads/564215d7-ea2c-4d6f-b216-33580c0d090b.png",
-      linkedin: "https://www.linkedin.com/in/felipe-pires-595a11329/"
     },
     {
       nome: "Eric Bittencourt",
