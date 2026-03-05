@@ -19,6 +19,7 @@ import Alumni from "./pages/Alumni";
 
 import { useEasterEgg } from "./hooks/useEasterEgg";
 import Starwalker from "./components/Starwalker";
+import ScrollToTop from "./components/ScrollToTop";
 
 // FLUMINENSE
 const queryClient = new QueryClient();
@@ -33,6 +34,7 @@ const App = () => {
         <Toaster />
         <Sonner />
         <BrowserRouter>
+          <ScrollToTop />
           {/* O componente do Starwalker é renderizado aqui quando ativado */}
           <Starwalker isActive={activated} onComplete={deactivate} />
           
