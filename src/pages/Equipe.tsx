@@ -137,7 +137,7 @@ const Equipe = () => {
       nome: "Pietro Maiolino",
       cargo: "Competições",
       foto: "lovable-uploads/pietro-maiolino.jpeg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/pietro-maiolino-b84a953a8/"
     },
     {
       nome: "Rodrigo Mambrini",
