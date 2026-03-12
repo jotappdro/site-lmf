@@ -13,6 +13,14 @@ const artigos = [
     data: "2024-10-13",
     capa: "/lovable-uploads/468e86_4d5efc992f4740b4a5b2b371a250f53d~mv2.jpg",
     pdfUrl: "/pdfs/ia-entre-otimismo-e-volatilidade.pdf"
+  },
+  {
+    id: 2,
+    titulo: "Mulheres no Mercado Financeiro",
+    autor: "Ana Carolina Prates & Isadora Valle",
+    data: "2020-06-07",
+    capa: "/lovable-uploads/Logo-Principal-TST-FundoAzulMédio-PNG.png",
+    pdfUrl: "/pdfs/MulheresNoMercadoFinanceiro.pdf"
   }
 ];
 
