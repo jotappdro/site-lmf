@@ -21,6 +21,14 @@ const artigos = [
     data: "2020-06-07",
     capa: "/lovable-uploads/Logo-Principal-TST-FundoAzulMédio-PNG.png",
     pdfUrl: "/pdfs/MulheresNoMercadoFinanceiro.pdf"
+  },
+  {
+    id: 3,
+    titulo: "1929: A Grande Depressão",
+    autor: "Gabriel Marques da Silva",
+    data: "2024-09-02",
+    capa: "/lovable-uploads/Logo-Principal-TST-FundoAzulMédio-PNG.png",
+    pdfUrl: "/pdfs/1929AGrandeDepressão.pdf"
   }
 ];
 
