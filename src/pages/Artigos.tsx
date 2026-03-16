@@ -27,7 +27,7 @@ const artigos = [
     titulo: "1929: A Grande Depressão",
     autor: "Gabriel Marques da Silva",
     data: "2024-09-02",
-    capa: "/lovable-uploads/Logo-Principal-TST-FundoAzulMédio-PNG.png",
+    capa: "/lovable-uploads/Franklin D. Roosevelt.jpg",
     pdfUrl: "/pdfs/1929AGrandeDepressão.pdf"
   }
 ];
