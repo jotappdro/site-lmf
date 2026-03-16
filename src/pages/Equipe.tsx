@@ -151,6 +151,12 @@ const Equipe = () => {
       foto: "lovable-uploads/rodrigo-valente.jpeg",
       linkedin: ""
     },
+    {
+      nome: "Victor Messer",
+      cargo: "Pessoas",
+      foto: "lovable-uploads/1f5ed056-58fd-45b5-9b65-adb76e2f40dd.png",
+      linkedin: "https://www.linkedin.com/in/victor-messer-678463369/"
+    },
   ];
 
   const MembroCard = ({ membro }: { membro: { nome: string; cargo: string; foto: string; linkedin?: string } }) => (
