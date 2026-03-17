@@ -37,7 +37,16 @@ const artigos = [
     data: "2024-04-04",
     capa: "/lovable-uploads/bolsachina.jpeg",
     pdfUrl: "/pdfs/RecessãonaChina.pdf"
-  }
+  },
+   {
+    id: 5,
+    titulo: "A Grande Recessão Brasileira",
+    autor: "Mariana Martins",
+    data: "2024-03-14",
+    capa: "/lovable-uploads/fotodilma.png",
+    pdfUrl: "/pdfs/AGrandeRecessãoBrasileira.pdf"
+   }
+  
 ];
 
 const Artigos = () => {
