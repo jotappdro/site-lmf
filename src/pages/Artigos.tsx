@@ -45,6 +45,14 @@ const artigos = [
     data: "2024-03-14",
     capa: "/lovable-uploads/fotodilma.png",
     pdfUrl: "/pdfs/AGrandeRecessãoBrasileira.pdf"
+   },
+   {
+    id: 6,
+    titulo: "A Crise e o Futuro do Varejo",
+    autor: "Gabriel Marques da Silva",
+    data: "2024-01-14",
+    capa: "/lovable-uploads/Casas bahia.webp",
+    pdfUrl: "/pdfs/ACriseeoFuturodoVarejo.pdf"
    }
   
 ];
