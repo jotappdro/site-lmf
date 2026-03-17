@@ -35,8 +35,8 @@ const artigos = [
     titulo: "Recessão na China?",
     autor: "Gabriel Corrêa",
     data: "2024-04-04",
-    capa: "/lovable-uploads/Franklin D. Roosevelt.jpg",
-    pdfUrl: "/pdfs/1929AGrandeDepressão.pdf"
+    capa: "/lovable-uploads/bolsachina.jpeg",
+    pdfUrl: "/pdfs/RecessãonaChina.pdf"
   }
 ];
 
