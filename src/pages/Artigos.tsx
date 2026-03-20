@@ -83,7 +83,7 @@ const artigos = [
   titulo: "A implosão da FTX",
   autor: "Carolina Blank, Giovanni Jobim e João Vitor Moura",
   data: "2023-02-24",
-  capa: "/lovable-uploads/468e86_72d23ed5cfe84df083e164bc1a2a487d~mv2.jpg.png",
+  capa: "/lovable-uploads/468e86_72d23ed5cfe84df083e164bc1a2a487d~mv2.jpg",
   pdfUrl: "/pdfs/A_implosao_da_FTX.pdf"
 }
   
