@@ -69,7 +69,15 @@ const artigos = [
    data: "2023-07-10",
    capa: "/lovable-uploads/468e86_53232a69611d416ca18905cd85d76aeb~mv2.jpg",
    pdfUrl: "/pdfs/WalMartAExtraordinariedadeDoSimples.pdf"
- }
+ },
+  {
+  id: 9,
+  titulo: 'O "Efeito Zoom"',
+  autor: "Beatriz Sut",
+  data: "2023-03-23",
+  capa: "/lovable-uploads/468e86_540a5fd859f54d9980acfcb7be5b0c63~mv2.png",
+  pdfUrl: "/pdfs/O_Efeito_Zoom.pdf"
+}
   
 ];
 
