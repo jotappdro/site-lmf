@@ -93,6 +93,14 @@ const artigos = [
   data: "2022-10-19",
   capa: "/lovable-uploads/468e86_d2a5d3de258948a7bf0bf42dcf4fe102~mv2 (1).jpg",
   pdfUrl: "/pdfs/Das_Stablecoins_ao_Real_digital.pdf"
+},
+  {
+  id: 12,
+  titulo: "Recessão nos EUA?",
+  autor: "João Pedro Veiga",
+  data: "2022-08-28",
+  capa: "/lovable-uploads/468e86_b79d161545de4776ad61f5e24f8df49a~mv2.png",
+  pdfUrl: "/pdfs/Recessao_nos_EUA.pdf"
 }
   
 ];
