@@ -77,6 +77,14 @@ const artigos = [
   data: "2023-03-23",
   capa: "/lovable-uploads/468e86_540a5fd859f54d9980acfcb7be5b0c63~mv2.png",
   pdfUrl: "/pdfs/O_Efeito_Zoom.pdf"
+},
+  {
+  id: 10,
+  titulo: "A implosão da FTX",
+  autor: "Carolina Blank, Giovanni Jobim e João Vitor Moura",
+  data: "2023-02-24",
+  capa: "/lovable-uploads/468e86_72d23ed5cfe84df083e164bc1a2a487d~mv2.jpg.png",
+  pdfUrl: "/pdfs/A_implosao_da_FTX.pdf"
 }
   
 ];
