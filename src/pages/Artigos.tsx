@@ -53,7 +53,15 @@ const artigos = [
     data: "2024-01-14",
     capa: "/lovable-uploads/Casas bahia.webp",
     pdfUrl: "/pdfs/ACriseeoFuturodoVarejo.pdf"
-   }
+   },
+  {
+  id: 7,
+  titulo: "O Mercado de Carbono",
+  autor: "Felipe Dalcomuni e Pedro Arthur Bevilaqua",
+  data: "2023-09-01",
+  capa: "/lovable-uploads/image2.png",
+  pdfUrl: "/pdfs/O_Mercado_De_Carbono_LMF.pdf"
+}
   
 ];
 
