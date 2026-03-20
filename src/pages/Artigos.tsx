@@ -60,7 +60,7 @@ const artigos = [
    autor: "Felipe Dalcomuni e Pedro Arthur Bevilaqua",
    data: "2023-09-01",
    capa: "/lovable-uploads/image2.png",
-   pdfUrl: "public/pdfs/O Mercado de Carbono.pdf"
+   pdfUrl: "/pdfs/O Mercado de Carbono.pdf"
   },
   {
    id: 8,
