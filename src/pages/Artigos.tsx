@@ -101,6 +101,46 @@ const artigos = [
   data: "2022-08-28",
   capa: "/lovable-uploads/468e86_b79d161545de4776ad61f5e24f8df49a~mv2.png",
   pdfUrl: "/pdfs/Recessao_nos_EUA.pdf"
+},
+  {
+  id: 13,
+  titulo: "Biden x Roosevelt: como o novo presidente americano se assemelha ao criador do New Deal?",
+  autor: "Fernanda Nogueira e Nicholas Gontijo",
+  data: "2021-06-17",
+  capa: "/lovable-uploads/imagemartigobidenroosevelt.png",
+  pdfUrl: "/pdfs/Biden_x_Roosevelt.pdf"
+},
+{
+  id: 14,
+  titulo: "Os gigantes estímulos fiscais americanos e a contradição da curva de Phillips",
+  autor: "Felipe Jatahy, Felipe Rocha e Ramiro Monarcha",
+  data: "2021-07-01",
+  capa: "/lovable-uploads/imagemartigoOs gigantes estímulos fiscais americanos e a contradição da curva de Phillips.jpeg",
+  pdfUrl: "/pdfs/Os_gigantes_estimulos_fiscais_americanos.pdf"
+},
+{
+  id: 15,
+  titulo: "A transformação no mercado financeiro: um desafio para os value investors",
+  autor: "Mateus Soares",
+  data: "2021-07-26",
+  capa: "/lovable-uploads/valueinvestorsIMAGEMARTIGO.png",
+  pdfUrl: "/pdfs/A_transformacao_no_mercado_financeiro.pdf"
+},
+{
+  id: 16,
+  titulo: "Plano Real: o fim da hiperinflação no Brasil",
+  autor: "Ana Maria Varela, Maria Clara Werneck e Pedro Rocha",
+  data: "2022-01-23",
+  capa: "/lovable-uploads/imagemartigoplanoreal.jpg",
+  pdfUrl: "/pdfs/Plano_Real.pdf"
+},
+{
+  id: 17,
+  titulo: "Rússia x Ucrânia: raízes e consequências do conflito",
+  autor: "Eduardo Berardo e Pedro Rocha",
+  data: "2022-04-01",
+  capa: "/lovable-uploads/imagemartigoguerrarussiaucrania.png",
+  pdfUrl: "/pdfs/Russia_x_Ucrania.pdf"
 }
   
 ];
