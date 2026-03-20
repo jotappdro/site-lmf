@@ -63,13 +63,13 @@ const artigos = [
    pdfUrl: "public/pdfs/O Mercado de Carbono.pdf"
   },
   {
-  id: 8,
-  titulo: "Wal-Mart: A extraordinariedade do simples",
-  autor: "Felipe Elgarten",
-  data: "2023-07-10",
-  capa: "/lovable-uploads/468e86_53232a69611d416ca18905cd85d76aeb~mv2.jpg",
-  pdfUrl: "public/pdfs/Wal-Mart_ A extraordinariedade do simples.pdf"
-}
+   id: 8,
+   titulo: "Wal-Mart: A extraordinariedade do simples",
+   autor: "Felipe Elgarten",
+   data: "2023-07-10",
+   capa: "/lovable-uploads/468e86_53232a69611d416ca18905cd85d76aeb~mv2.jpg",
+   pdfUrl: "public/pdfs/Wal-Mart_ A extraordinariedade do simples.pdf"
+ }
   
 ];
 
