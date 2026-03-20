@@ -91,7 +91,7 @@ const artigos = [
   titulo: "Das Stablecoins ao Real digital: a evolução das moedas digitais",
   autor: "Carolina Blank",
   data: "2022-10-19",
-  capa: "/lovable-uploads/468e86_d2a5d3de258948a7bf0bf42dcf4fe102~mv2.jpg",
+  capa: "/lovable-uploads/468e86_d2a5d3de258948a7bf0bf42dcf4fe102~mv2 (1).jpg",
   pdfUrl: "/pdfs/Das_Stablecoins_ao_Real_digital.pdf"
 }
   
