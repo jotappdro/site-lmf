@@ -18,7 +18,7 @@ const Competicoes = () => {
 {
   nome: "Constellation Challenge 2026",
   tipo: "Semifinalistas",
-  descricao: "Os associados Eric Bittencourt e Pedro Cafasso foram selecionados entre os 30 semifinalistas do Constellation Challenge 2026. Assim como os demais participantes, desenvolveram um case de investimento sobre a RBI (Restaurant Brands International) dentre mais de 260 grupos.",
+  descricao: "Os associados Eric Bittencourt e Pedro Cafasso foram selecionados entre os 25 semifinalistas do Constellation Challenge 2026. Assim como os demais participantes, desenvolveram um case de investimento sobre a RBI (Restaurant Brands International) dentre mais de 260 grupos.",
   resultado: "Semifinalistas",
   imagem: "lovable-uploads/constellation26-semi.JPG",
   imagePosition: "object-center"
