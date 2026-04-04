@@ -758,7 +758,47 @@ const Alumni = () => {
     {
       nome: "Vivian Balthazar",
       linkedin: "https://www.linkedin.com/in/vivian-balthazar/"
-    }
+    },
+    {
+  nome: "Eric Bittencourt",
+  linkedin: "https://www.linkedin.com/in/eric-bittencourt-grillo-0aa1423a6/"
+},
+{
+  nome: "Gustavo Fortes",
+  linkedin: "https://www.linkedin.com/in/gustavo-fortes-2b6723268/"
+},
+{
+  nome: "Henrique Parente",
+  linkedin: "https://www.linkedin.com/in/henrique-parente-marquez-a71573268/"
+},
+{
+  nome: "João Guimarães",
+  linkedin: "https://www.linkedin.com/in/joão-guimarães-543bb41aa/"
+},
+{
+  nome: "João Pessoa",
+  linkedin: "https://www.linkedin.com/in/joão-pedro-pessoa-a25337385/"
+},
+{
+  nome: "Kaike Parcias",
+  linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
+},
+{
+  nome: "Pedro Cunha",
+  linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
+},
+{
+  nome: "Pietro Maiolino",
+  linkedin: "https://www.linkedin.com/in/pietro-maiolino-b84a953a8/"
+},
+{
+  nome: "Rodrigo Mambrini",
+  linkedin: "https://www.linkedin.com/in/rodrigomambrinif/"
+},
+{
+  nome: "Rodrigo Valente",
+  linkedin: ""
+}
   ].sort((a, b) => a.nome.localeCompare(b.nome));
 
   return (
