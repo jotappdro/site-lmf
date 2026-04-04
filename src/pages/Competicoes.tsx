@@ -6,6 +6,23 @@ import { Card, CardContent } from '@/components/ui/card';
 const Competicoes = () => {
   // Removi a / do início de cada caminho de imagem pra ver se funfa assim
   const competicoes = [
+
+    {
+  nome: "Constellation Challenge 2026",
+  tipo: "Finalistas",
+  descricao: "Os associados João Pedro Pessoa e Pedro Cunha conquistaram a final Brasil do Constellation Challenge 2026. Dentre mais de 260 grupos participantes, a dupla se destacou com um case de investimento completo sobre a RBI (Restaurant Brands International), avançando até a etapa decisiva da competição em São Paulo.",
+  resultado: "Finalistas",
+  imagem: "lovable-uploads/constellation26-final.JPG",
+  imagePosition: "object-center"
+},
+{
+  nome: "Constellation Challenge 2026",
+  tipo: "Semifinalistas",
+  descricao: "Os associados Eric Bittencourt e Pedro Cafasso foram selecionados entre os 30 semifinalistas do Constellation Challenge 2026. Assim como os demais participantes, desenvolveram um case de investimento sobre a RBI (Restaurant Brands International) dentre mais de 260 grupos.",
+  resultado: "Semifinalistas",
+  imagem: "lovable-uploads/constellation26-semi.JPG",
+  imagePosition: "object-center"
+},
         {
       nome: "Desafio Opportunity 2025",
       tipo: "2º Lugar",
