@@ -8,16 +8,16 @@ const Equipe = () => {
   // Removendo a / do início de cada caminho de foto, agora já sei que funciona
   const gestao = [
     {
-      nome: "João Souza",
+      nome: "Pedro Cafasso",
       cargo: "Presidente",
-      foto: "lovable-uploads/065173d1-c0be-410e-a451-2b4c4be920b1.png",
-      linkedin: "https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-de-souza/"
+      foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
+      linkedin: "https://www.linkedin.com/in/pedro-antonio-cafasso-a0b7391bb/"
     },
     {
-      nome: "Felipe Dib",
+      nome: "Carolina Freitas",
       cargo: "Vice-Presidente",
-      foto: "lovable-uploads/374c2ec2-b7fb-443f-b622-c430b39e485a.png",
-      linkedin: "https://www.linkedin.com/in/felipe-dib-020bba32a/"
+      foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png",
+      linkedin: "https://www.linkedin.com/in/carolina-freitas-423863364/"
     }
   ];
 
@@ -29,32 +29,26 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
     },
     {
-      nome: "Carolina Freitas",
-      cargo: "Diretora de Produção de Conteúdo",
-      foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png",
-      linkedin: "https://www.linkedin.com/in/carolina-freitas-423863364/"
+      nome: "Pedro Svartman",
+      cargo: "Diretor de Prod. de Conteúdo",
+      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png",
+      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
     },
     {
       nome: "Gustavo Nigri",
-      cargo: "Direto de Eventos",
+      cargo: "Diretor de Eventos",
       foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png",
       linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
     },
     {
-      nome: "Pedro Cafasso",
+      nome: "Pedro Kottler",
       cargo: "Diretor de Competições",
-      foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
-      linkedin: "https://www.linkedin.com/in/pedro-antonio-cafasso-a0b7391bb/"
+      foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
+      linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
     }
   ];
 
   const associadosJuniors = [
-    {
-      nome: "Carlos Fragozo",
-      cargo: "Competições",
-      foto: "lovable-uploads/6f94c149-4b92-49db-899c-8ef632309cf8.png",
-      linkedin: "https://www.linkedin.com/in/carlos-eduardo-fragozo-6606362b6/"
-    },
     {
       nome: "Eric Bittencourt",
       cargo: "Pessoas",
