@@ -29,12 +29,6 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
     },
     {
-      nome: "Pedro Svartman",
-      cargo: "Diretor de Prod. de Conteúdo",
-      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png",
-      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
-    },
-    {
       nome: "Gustavo Nigri",
       cargo: "Diretor de Eventos",
       foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png",
@@ -45,6 +39,12 @@ const Equipe = () => {
       cargo: "Diretor de Competições",
       foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
       linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
+    },
+    {
+      nome: "Pedro Svartman",
+      cargo: "Diretor de Prod. de Conteúdo",
+      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png",
+      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
     }
   ];
 
@@ -108,18 +108,6 @@ const Equipe = () => {
       cargo: "Competições",
       foto: "lovable-uploads/pedro-cunha.jpeg",
       linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
-    },
-    {
-      nome: "Pedro Kottler",
-      cargo: "Competições",
-      foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
-      linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
-    },
-    {
-      nome: "Pedro Svartman",
-      cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/3d7b26ce-fd2a-4d6f-acbc-0fb653e7b314.png",
-      linkedin: "https://www.linkedin.com/in/pedro-svartman-62b9b5364/"
     },
     {
       nome: "Gustavo Fortes",
