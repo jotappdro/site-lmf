@@ -166,7 +166,7 @@ const Equipe = () => {
     {
       nome: "Pedro Rocha",
       cargo: "Capacitação",
-      foto: "lovable-uploads/Ana Beatriz Rosa.jpeg",
+      foto: "lovable-uploads/Pedro rocha.jpeg",
       linkedin: ""
     },
     {
