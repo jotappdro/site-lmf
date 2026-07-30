@@ -29,14 +29,26 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
     },
     {
+      nome: "Gustavo Fortes",
+      cargo: "Diretor de Prod. de Conteúdo e Head Macro",
+      foto: "lovable-uploads/gustavo-fortes.jpeg",
+      linkedin: "https://www.linkedin.com/in/gustavo-fortes-2b6723268/"
+    },
+    {
       nome: "Gustavo Nigri",
       cargo: "Diretor de Eventos",
       foto: "lovable-uploads/2419f932-f36a-4656-8f56-f879a134088c.png",
       linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
     },
     {
+      nome: "Pedro Cunha",
+      cargo: "Diretor de Capacitação e Head Equity Global",
+      foto: "lovable-uploads/pedro-cunha.jpeg",
+      linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
+    },
+    {
       nome: "Pedro Kottler",
-      cargo: "Diretor de Competições",
+      cargo: "Diretor de Capacitação e Head Equity Brasil",
       foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
       linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
     },
@@ -50,16 +62,46 @@ const Equipe = () => {
 
   const associadosJuniors = [
     {
+      nome: "Ana Beatriz Rosa",
+      cargo: "Eventos",
+      foto: "lovable-uploads/Ana Beatriz Rosa.jpeg",
+      linkedin: ""
+    },
+    {
+      nome: "Antonio Trezzi",
+      cargo: "Capacitação",
+      foto: "lovable-uploads/Antonio Trezzi.jpg",
+      linkedin: "https://www.linkedin.com/in/ant%C3%B4nio-trezzi-barcinski-4975763bb/"
+    },
+    {
+      nome: "Beatriz Toledano",
+      cargo: "Pessoas",
+      foto: "lovable-uploads/Beatriz Toledano.PNG",
+      linkedin: ""
+    },
+    {
+      nome: "Bernardo Barauna",
+      cargo: "Capacitação",
+      foto: "lovable-uploads/Bernardo Barauna.jpg",
+      linkedin: "https://www.linkedin.com/in/bernardo-a-barauna/"
+    },
+    {
+      nome: "Eduardo Hamawy",
+      cargo: "Prod. de Conteúdo",
+      foto: "lovable-uploads/Eduardo Hamawy (1).jpg",
+      linkedin: "https://www.linkedin.com/in/eduardo-hamawy-5327693b6/"
+    },
+    {
       nome: "Eric Bittencourt",
       cargo: "Pessoas",
       foto: "lovable-uploads/eric-bittencourt.jpeg",
       linkedin: "https://www.linkedin.com/in/eric-bittencourt-grillo-0aa1423a6/"
     },
     {
-      nome: "Gabriela Musa",
+      nome: "Felipe Iglesias",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/737a2244-61e5-4ec5-b165-48bf245f30aa.png",
-      linkedin: "https://www.linkedin.com/in/gabriela-musa-367174368/"
+      foto: "lovable-uploads/Felipe Iglesias Teixeira.jpg",
+      linkedin: "https://www.linkedin.com/in/felipe-iglesias-teixeira-2765a1411/"
     },
     {
       nome: "Guilherme Caruso",
@@ -72,12 +114,6 @@ const Equipe = () => {
       cargo: "Eventos",
       foto: "lovable-uploads/a55f8812-8aa2-4fa0-a1eb-83e21c4fad18.png",
       linkedin: "https://www.linkedin.com/in/gustavo-kallmann-geller-861a70226/"
-    },
-    {
-      nome: "Gustavo Levy",
-      cargo: "Pessoas",
-      foto: "lovable-uploads/46cc0fae-64e6-4c84-9dc1-96fa3d454d3b.png",
-      linkedin: "https://www.linkedin.com/in/gustavo-levy-00366035b/"
     },
     {
       nome: "Henrique Parente",
@@ -99,25 +135,43 @@ const Equipe = () => {
     },
     {
       nome: "Kaike Parcias",
-      cargo: "Competições",
+      cargo: "Capacitação",
       foto: "lovable-uploads/kaike-parcias.jpeg",
       linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
     },
     {
-      nome: "Pedro Cunha",
-      cargo: "Competições",
-      foto: "lovable-uploads/pedro-cunha.jpeg",
-      linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
+      nome: "Leonardo Szwarcwald",
+      cargo: "Pessoas",
+      foto: "lovable-uploads/Leonardo Szwarcwald.jpeg",
+      linkedin: "https://www.linkedin.com/in/leonardo-szwarcwald-a09642413/"
     },
     {
-      nome: "Gustavo Fortes",
+      nome: "Leticia Virgini",
+      cargo: "Pessoas",
+      foto: "lovable-uploads/Letícia Virgini.jpg",
+      linkedin: ""
+    },
+    {
+      nome: "Maria Clara Torres",
       cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/gustavo-fortes.jpeg",
-      linkedin: "https://www.linkedin.com/in/gustavo-fortes-2b6723268/"
+      foto: "lovable-uploads/Maria Clara Torres.jpg",
+      linkedin: ""
+    },
+    {
+      nome: "Miguel Pessoa",
+      cargo: "Capacitação",
+      foto: "lovable-uploads/Miguel Pessoa.jpg",
+      linkedin: "https://www.linkedin.com/in/miguel-de-vincenzi-pessoa-15392a376/"
+    },
+    {
+      nome: "Pedro Rocha",
+      cargo: "Capacitação",
+      foto: "lovable-uploads/Ana Beatriz Rosa.jpeg",
+      linkedin: ""
     },
     {
       nome: "Pietro Maiolino",
-      cargo: "Competições",
+      cargo: "Pessoas",
       foto: "lovable-uploads/pietro-maiolino.jpeg",
       linkedin: "https://www.linkedin.com/in/pietro-maiolino-b84a953a8/"
     },
@@ -128,16 +182,28 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/rodrigomambrinif/"
     },
     {
+      nome: "Rodrigo Quiroga",
+      cargo: "Eventos",
+      foto: "lovable-uploads/Rodrigo_Quiroga_IMG_2655.PNG",
+      linkedin: ""
+    },
+    {
       nome: "Rodrigo Valente",
       cargo: "Pessoas",
       foto: "lovable-uploads/rodrigo-valente.jpeg",
       linkedin: ""
     },
     {
-      nome: "Victor Messer",
-      cargo: "Pessoas",
-      foto: "lovable-uploads/1f5ed056-58fd-45b5-9b65-adb76e2f40dd.png",
-      linkedin: "https://www.linkedin.com/in/victor-messer-678463369/"
+      nome: "Sofia Paiva",
+      cargo: "Eventos",
+      foto: "lovable-uploads/Sofia Paiva.jpg",
+      linkedin: ""
+    },
+    {
+      nome: "Thomaz Aguiar",
+      cargo: "Prod. de Conteúdo",
+      foto: "lovable-uploads/Thomaz Aguiar.jpeg",
+      linkedin: ""
     },
   ];
 
