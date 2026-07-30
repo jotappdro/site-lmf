@@ -191,7 +191,7 @@ const Equipe = () => {
       nome: "Rodrigo Valente",
       cargo: "Pessoas",
       foto: "lovable-uploads/rodrigo-valente.jpeg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/rodrigo-botelho-junqueira-valente-a22169403/"
     },
     {
       nome: "Sofia Paiva",
