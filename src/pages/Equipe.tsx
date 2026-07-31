@@ -146,10 +146,10 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/leonardo-szwarcwald-a09642413/"
     },
     {
-      nome: "Leticia Virgini",
+      nome: "Letícia Virgini",
       cargo: "Pessoas",
       foto: "lovable-uploads/Letícia Virgini.jpg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/let%C3%ADcia-virgini-b4a803426/"
     },
     {
       nome: "Maria Clara Torres",
@@ -185,7 +185,7 @@ const Equipe = () => {
       nome: "Rodrigo Quiroga",
       cargo: "Eventos",
       foto: "lovable-uploads/Rodrigo_Quiroga_IMG_2655.PNG",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/rodrigo-quiroga-6b760b374/"
     },
     {
       nome: "Rodrigo Valente",
@@ -197,13 +197,13 @@ const Equipe = () => {
       nome: "Sofia Paiva",
       cargo: "Eventos",
       foto: "lovable-uploads/Sofia Paiva.jpg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/sofia-paiva-1946bb373/"
     },
     {
       nome: "Thomaz Aguiar",
       cargo: "Prod. de Conteúdo",
       foto: "lovable-uploads/Thomaz Aguiar.jpeg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/thomaz-aguiar-096040426/"
     },
   ];
 
