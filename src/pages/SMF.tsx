@@ -137,11 +137,11 @@ const SMF = () => {
 
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
-                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2025</h3>
+                <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2026</h3>
                 <div className="max-w-4xl mx-auto space-y-8">
-                  {/* Segunda-feira (25/08) */}
+                  {/* Segunda-feira (17/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Segunda-feira (25/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Segunda-feira (17/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -151,19 +151,10 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Trajetória de Carreira no Mercado Financeiro
+                            Navegando a Gestão Patrimonial e o Empreendedorismo no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Marcelo Mesquita (Sócio-Fundador da Leblon Equities)</p>
+                          <p className="text-gray-600 mb-1">Alex Silva (Sócio Aware Investments) e Armando Ahmed (Fundador e presidente Drogaria Venancio)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-trajetoria-no-mercado-financeiro/3072960"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
                         </div>
                       </div>
 
