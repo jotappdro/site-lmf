@@ -145,7 +145,7 @@ const SMF = () => {
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          11h
+                          11h00
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
@@ -153,7 +153,44 @@ const SMF = () => {
                           <h5 className="text-lg font-semibold text-primary mb-2">
                             Navegando a Gestão Patrimonial e o Empreendedorismo no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Alex Silva (Sócio Aware Investments) e Armando Ahmed (Fundador e presidente Drogaria Venancio)</p>
+                          <p className="text-gray-600 mb-1">Alex Silva (Sócio Aware Investments)</p>
+                          <p className="text-gray-600 mb-1">Armando Ahmed (Fundador e presidente Drogaria Venancio)</p>
+                        </div>
+                        </div>
+
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                          13h30
+                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
+                        </div>
+                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-primary mb-2">
+                            O Mercado de Ações Brasileiro
+                          </h5>
+                          <p className="text-gray-600 mb-4 md:mb-1">Guilherme Aché (Sócio-fundador Squadra)</p>
+                          <p className="text-gray-600">Florian Bartunek (Sócio-fundador e CIO Constellation)</p>
+                        </div>
+                        </div>
+                    </div>
+                  </div>
+
+                  {/* Terça-feira (18/08) */}
+                  <div>
+                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Terça-feira (18/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                          11h00
+                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
+                        </div>
+                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-primary mb-2">
+                            Como Pensam Gestores de Ações
+                          </h5>
+                          <p className="text-gray-600 mb-4 md:mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
+                          <p className="text-gray-600 mb-1">Philippe Perdigão (Sócio-fundador Atta Partners)</p>
                         </div>
                         </div>
 
@@ -165,20 +202,10 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Como Pensam os Gestores de Ações
+                            O Cenário Macroeconômico Global e Local
                           </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Marcel Guetta (Sócio-Fundador, CEO e CIO da Magnus Capital)</p>
-                          <p className="text-gray-600">Philippe Perdigão (Investidor)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-como-pensam-os-gestores-de-acoes/3072976"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-1">Bruno Coutinho (Sócio-fundador e gestor Mar Asset)</p>
+                          <p className="text-gray-600 mb-1">João Landau (Sócio-fundador e gestor Vista Capital)</p>
                         </div>
                       </div>
 
@@ -190,131 +217,17 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Tendências Para a Economia Global
+                            Perspectivas e Cenário de Private Equity no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-1">Ruy Alves (Sócio e Gestor da Kinea Investimentos)</p>
+                          <p className="text-gray-600 mb-4 md:mb-1">Rodrigo Marvão (Sócio de Private Equity Opportunity)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-tendencias-para-a-economia-global/3072986"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
                         </div>
-                      </div>
                     </div>
                   </div>
 
-                  {/* Terça-feira (26/08) */}
+                  {/* Quarta-feira (19/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Terça-feira (26/08)</h4>
-                    <div className="space-y-4">
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          10h30
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Value Investing e Estratégias de Longo Prazo
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Marcelo Clark (Sócio e Gestor da Sharp Capital)</p>
-                          <p className="text-gray-600 mb-1">Pedro Rosset (Sócio da Sharp Capital)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-value-investing-e-estrategias-de-longo-prazo/3073386"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          13h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Mercado de Ativos Ilíquidos
-                          </h5>
-                          <p className="text-gray-600 mb-1">Rodrigo Alves (Sócio de Ativos Íliquidos do BTG Pactual)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-o-mercado-de-ativo-iliquidos/3073403"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          16h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Filosofias de Investimento no Brasil
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Alexandre Silverio (Sócio-Fundador e CEO da Tenax Capital)</p>
-                          <p className="text-gray-600 mb-1">Camilo Marcantonio (Sócio-Fundador e CIO da Charles River Capital)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-filosofias-de-investimento-no-brasil/3073409"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          18h30
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Carreira em Bancos de Investimento
-                          </h5>
-                          <p className="text-gray-600 mb-1">André Juaçaba (Vice-Presidente Executivo do Banco Santander)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-carreira-em-bancos-de-investimento/3073431"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Quarta-feira (27/08) */}
-                  <div>
-                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Quarta-feira (27/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Quarta-feira (19/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
@@ -324,150 +237,81 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Perspectivas de Investimentos em Ações e Trajetória
+                            Investimento em Infraestrutura no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Bruno Garcia (Sócio-Fundador e CIO da TRUXT Investimentos)</p>
-                          <p className="text-gray-600 mb-1">Jander Medeiros (Sócio da TRUXT Investimentos)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-perspectivas-de-investimentos-em-acoes-e-trajetoria/3072997"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-4 md:mb-1">Rodrigo Rocha (Partner Vinci Compass)</p>
+                          <p className="text-gray-600 mb-1">Larissa Lima (Associate Vinci Compass)</p>
                         </div>
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-center gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="self-start md:self-center text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px]">
-                          13h30
+                          14h00
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Investir no Longo Prazo
+                            Filosofias de Investimento no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Bernardo Costa (Sócio da Dynamo)</p>
-                          <p className="text-gray-600 mb-1">Fernando Pires (Sócio da Dynamo)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-gestao-de-fundos-multimercado/3073007"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          16h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Estratégias de Crédito: Do High Grade ao Special Situations
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Rafael Fritsch (CIO da Root Capital)</p>
-                          <p className="text-gray-600 mb-1">Sérgio Pessoa (Gestor de Crédito da Root Capital)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-estrategias-em-credito-e-special-situations/3073017"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          18h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Mercado de Ações Brasileiro
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Florian Bartunek (Sócio-Fundador da Constellation Asset)</p>
-                          <p className="text-gray-600 mb-1">Guilherme Aché (Sócio-Fundador da Squadra Investimentos)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-o-mercado-de-acoes-brasileiro/3073028"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-4 md:mb-1">Bruno Garcia (Sócio-fundador e CIO Truxt Investimentos)</p>
+                          <p className="text-gray-600 mb-1">Jander Medeiros (Sócio Truxt Investimentos)</p>
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  {/* Quinta-feira (28/08) */}
+                  {/* Quinta-feira (20/08) */}
                   <div>
-                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Quinta-feira (28/08)</h4>
+                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Quinta-feira (20/08)</h4>
                     <div className="space-y-4">
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          10h00
+                          11h00
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Cenário Atual do Mercado de Private Equity
+                            Futuro do Crédito Privado no Brasil
                           </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Eduardo Azevedo (Head de Private Equity do Opportunity)</p>
-                          <p className="text-gray-600 mb-1">Rodrigo Marvão (Sócio de Private Equity do Opportunity)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-cenario-atual-do-mercado-de-private-equity/3073453"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-4 md:mb-1">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
                         </div>
                       </div>
 
                       <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
                         <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          12h30
+                          14h00
                           <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
                         </div>
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Desafios Para o Sistema Financeiro Nacional
+                            Value Investing: Investindo no Longo Prazo
                           </h5>
-                          <p className="text-gray-600 mb-1">Renato Gomes (Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central)</p>
+                          <p className="text-gray-600 mb-1">Bruno Rapparini (Sócio Dynamo)</p>
+                          <p className="text-gray-600 mb-1">Fernando Pires (Sócio Dynamo)</p>
                         </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-desafios-para-o-sistema-financeiro-nacional/3073465"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Sexta-feira (21/08) */}
+                  <div>
+                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Sexta-feira (21/08)</h4>
+                    <div className="space-y-4">
+                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
+                          11h30
+                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
+                        </div>
+                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
+                        <div className="flex-1">
+                          <h5 className="text-lg font-semibold text-primary mb-2">
+                            Estratégias de Crédito: do High Grade ao Special Situations
+                          </h5>
+                          <p className="text-gray-600 mb-4 md:mb-1">Rafael Fritsch (CIO Root Capital)</p>
+                          <p className="text-gray-600 mb-1">Luan Reis (Sócio Root Capital)</p>
                         </div>
                       </div>
 
@@ -479,99 +323,10 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            Oportunidades e Riscos Para o Crédito Privado
+                            Os Rumos da Economia Brasileira e o Fluxo Global de Capitais
                           </h5>
-                          <p className="text-gray-600 mb-1">Bruno Spilberg (Principal e Gestor de Crédito da Vinci Compass)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-oportunidades-e-riscos-para-o-credito-privado/3073479"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          18h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Cenário Macroeconômico Global e Local
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Bruno Coutinho (Sócio-Fundador e Gestor da Mar Asset)</p>
-                          <p className="text-gray-600 mb-1">João Landau (Sócio-Fundador e Gestor da Vista Capital)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-cenario-macroeconomico-global-e-local/3073492"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Sexta-feira (29/08) */}
-                  <div>
-                    <h4 className="text-[1.375rem] font-semibold text-financial-primary mb-4">Sexta-feira (29/08)</h4>
-                    <div className="space-y-4">
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          13h30
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Futuro do Crédito Privado no Brasil
-                          </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">Alan Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
-                          <p className="text-gray-600 mb-1">Antonio Corrêa (Gestor de Crédito da Icatu Vanguarda)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-o-futuro-da-renda-fixa-no-brasil/3073047"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex flex-col md:flex-row md:items-center items-start gap-4 md:gap-6 p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-                        <div className="text-lg font-medium text-primary mb-2 md:mb-0 md:min-w-[60px] text-center">
-                          16h00
-                          <div className="block md:hidden h-0.5 bg-primary mt-1 w-full rounded-full"></div>
-                        </div>
-                        <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
-                        <div className="flex-1">
-                          <h5 className="text-lg font-semibold text-primary mb-2">
-                            Multi-Family Offices e a Gestão Patrimonial
-                          </h5>
-                          <p className="text-gray-600 mb-1">Eduardo Gomes de Almeida (Co-Presidente do Conselho e Sócio da Turim)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-multi-family-offices-e-a-gestao-patrimonial/3073055"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-1">Daniel Bassan (Country Head Brazil e Regional Head Latin America UBS)</p>
+                          <p className="text-gray-600 mb-1">Solange Srour (Head of Brazil Macroeconomics UBS)</p>
                         </div>
                       </div>
 
@@ -583,20 +338,9 @@ const SMF = () => {
                         <div className="hidden md:block w-1 bg-primary rounded-full self-stretch"></div>
                         <div className="flex-1">
                           <h5 className="text-lg font-semibold text-primary mb-2">
-                            O Panorama Fiscal Brasileiro
+                            Trajetória de Carreira: Como Comandar as Maiores Empresas do Brasil
                           </h5>
-                          <p className="text-gray-600 mb-4 md:mb-1">José Márcio Camargo (Economista-Chefe da Genial Investimentos) e</p>
-                          <p className="text-gray-600 mb-1">Paulo Val (Economista-Chefe da Occam Brasil)</p>
-                        </div>
-                        <div className="flex-shrink-0 flex justify-center w-full md:w-auto mt-4 md:mt-0">
-                          <a 
-                            href="https://www.sympla.com.br/evento/painel-o-panorama-fiscal-brasileiro/3073065"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-primary/90 transition-colors font-medium"
-                          >
-                            Inscreva-se
-                          </a>
+                          <p className="text-gray-600 mb-4 md:mb-1">Luis Guimarães (Sócio Globo Ventures)</p>
                         </div>
                       </div>
                     </div>
