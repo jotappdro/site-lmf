@@ -64,7 +64,7 @@ const SMF = () => {
                 <img 
                   src="lovable-uploads/logoSMF262.PNG"
                   alt="SMF 2026 Logo"
-                  className="mx-auto w-full max-w-md h-auto object-contain"
+                  className="mx-auto w-full max-w-2xl h-auto object-contain"
                 />
               </div>
 
