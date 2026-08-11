@@ -138,6 +138,29 @@ const SMF = () => {
               {/* Lista de Painéis para Inscrição */}
               <div className="mb-20">
                 <h3 className="text-2xl font-semibold text-financial-primary mb-8">Inscreva-se nos Painéis da SMF 2026</h3>
+                
+                {/* Caixa de inscrição */}
+                <div className="max-w-4xl mx-auto mb-10">
+                  <div className="bg-primary rounded-xl p-6 md:p-8 shadow-md flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-center md:text-left">
+                    <div>
+                      <p className="text-white text-lg font-semibold mb-1">
+                        As inscrições estão abertas!
+                      </p>
+                      <p className="text-white/80 text-sm">
+                        Garanta sua vaga nos painéis pelo Sympla. Entrada gratuita e vagas limitadas.
+                     </p>
+                     </div>
+
+                      href="https://forms.gle/vbXnphbKnomTA8wd8"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-shrink-0 bg-white text-primary px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors whitespace-nowrap"
+                    >
+                      Inscreva-se
+                    </a>
+                  </div>
+                </div>
+              
                 <div className="max-w-4xl mx-auto space-y-8">
                   {/* Segunda-feira (17/08) */}
                   <div>
