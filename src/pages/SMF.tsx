@@ -56,11 +56,11 @@ const SMF = () => {
           title="Semana de Mercado Financeiro"
           subtitle="O maior evento de mercado financeiro da PUC-Rio, reunindo estudantes, profissionais e empresas para discussões sobre o futuro do setor"
         />
-        <section className="py-20 bg-white">
+        <section className="py-8   bg-white">
           <div className="container mx-auto px-6">
             <div className="max-w-4xl mx-auto text-center">
               {/* Logo SMF 2026 */}
-              <div className="mb-12">
+              <div className="my-24">
                 <img 
                   src="lovable-uploads/logoSMF262.PNG"
                   alt="SMF 2026 Logo"
