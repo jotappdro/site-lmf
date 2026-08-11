@@ -62,7 +62,7 @@ const SMF = () => {
               {/* Logo SMF 2025 */}
               <div className="mb-12">
                 <img 
-                  src="lovable-uploads/c4e76c4f-8b72-424a-bc75-e18aa5234fa3.png"
+                  src="lovable-uploads/logoSMF26.png"
                   alt="SMF 2025 Logo"
                   className="mx-auto h-32 object-contain"
                 />
@@ -110,6 +110,22 @@ const SMF = () => {
         <img 
           src={`${import.meta.env.BASE_URL}lovable-uploads/1f41757c-add6-49ae-9dd8-1c1a211dcdf9.png`}
           alt="Vinci Compass"
+          className="object-contain"
+          style={{ height: "70px", width: "auto" }}
+        />
+      </div>
+      <div className="flex items-center justify-center h-24">
+        <img 
+          src={`${import.meta.env.BASE_URL}lovable-uploads/logoopp.png`}
+          alt="Opportunity"
+          className="object-contain"
+          style={{ height: "70px", width: "auto" }}
+        />
+      </div>
+      <div className="flex items-center justify-center h-24">
+        <img 
+          src={`${import.meta.env.BASE_URL}lovable-uploads/logoaware.png`}
+          alt="Aware Investments"
           className="object-contain"
           style={{ height: "70px", width: "auto" }}
         />
