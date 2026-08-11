@@ -59,12 +59,12 @@ const SMF = () => {
         <section className="py-20 bg-white">
           <div className="container mx-auto px-6">
             <div className="max-w-4xl mx-auto text-center">
-              {/* Logo SMF 2025 */}
+              {/* Logo SMF 2026 */}
               <div className="mb-12">
                 <img 
                   src="lovable-uploads/logoSMF26.png"
                   alt="SMF 2026 Logo"
-                  className="mx-auto h-[1000px] object-contain"
+                  className="mx-auto w-full max-w-md h-auto object-contain"
                 />
               </div>
 
