@@ -147,10 +147,10 @@ const SMF = () => {
                         As inscrições estão abertas!
                       </p>
                       <p className="text-white/80 text-sm">
-                        Garanta sua vaga nos painéis pelo Sympla. Entrada gratuita e vagas limitadas.
+                        Garanta sua vaga nos painéis pelo formulário. Entrada gratuita e vagas limitadas.
                      </p>
-                     </div>
-
+                   </div>
+                    <a
                       href="https://forms.gle/vbXnphbKnomTA8wd8"
                       target="_blank"
                       rel="noopener noreferrer"
