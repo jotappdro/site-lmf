@@ -62,7 +62,7 @@ const SMF = () => {
               {/* Logo SMF 2026 */}
               <div className="mb-10">
                 <img 
-                  src="lovable-uploads/logoSMF26oficial.PNG"
+                  src="lovable-uploads/logoSMF26oficial.png"
                   alt="SMF 2026 Logo"
                   className="mx-auto block w-full max-w-md h-auto"
                 />
