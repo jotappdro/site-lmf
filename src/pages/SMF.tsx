@@ -64,7 +64,7 @@ const SMF = () => {
                 <img 
                   src="lovable-uploads/logoSMF26.png"
                   alt="SMF 2026 Logo"
-                  className="mx-auto h-96 object-contain"
+                  className="mx-auto h-[1000px] object-contain"
                 />
               </div>
 
@@ -81,7 +81,7 @@ const SMF = () => {
   <h3 className="text-2xl font-semibold text-financial-primary mb-12">Patrocinadores</h3>
 
   <div className="flex-grow flex items-center mb-12">
-    <div className="grid grid-cols-1 md:grid-cols-4 gap-16 justify-center">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-16 justify-center">
       <div className="flex items-center justify-center h-24">
         <img 
           src={`${import.meta.env.BASE_URL}lovable-uploads/icatu2.png`}
