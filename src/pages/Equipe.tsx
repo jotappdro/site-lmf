@@ -41,6 +41,12 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/gustavo-camhaji-nigri-5086902a9/"
     },
     {
+      nome: "Henrique Parente",
+      cargo: "Diretor de Eventos",
+      foto: "lovable-uploads/henrique-parente.jpeg",
+      linkedin: "https://www.linkedin.com/in/henrique-parente-marquez-a71573268/"
+    },
+    {
       nome: "Pedro Cunha",
       cargo: "Diretor de Capacitação e Head Equity Global",
       foto: "lovable-uploads/pedro-cunha.jpeg",
@@ -77,7 +83,7 @@ const Equipe = () => {
       nome: "Beatriz Toledano",
       cargo: "Pessoas",
       foto: "lovable-uploads/Beatriz Toledano.PNG",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/beatriz-toledano-165a6a427/"
     },
     {
       nome: "Bernardo Barauna",
@@ -116,12 +122,6 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/gustavo-kallmann-geller-861a70226/"
     },
     {
-      nome: "Henrique Parente",
-      cargo: "Prod. de Conteúdo",
-      foto: "lovable-uploads/henrique-parente.jpeg",
-      linkedin: "https://www.linkedin.com/in/henrique-parente-marquez-a71573268/"
-    },
-    {
       nome: "João Guimarães",
       cargo: "Eventos",
       foto: "lovable-uploads/joao-guimaraes.jpeg",
@@ -155,7 +155,7 @@ const Equipe = () => {
       nome: "Maria Clara Torres",
       cargo: "Prod. de Conteúdo",
       foto: "lovable-uploads/Maria Clara Torres.jpg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/maria-clara-veloso-torres-2997b8426/"
     },
     {
       nome: "Miguel Pessoa",
@@ -167,7 +167,7 @@ const Equipe = () => {
       nome: "Pedro Rocha",
       cargo: "Capacitação",
       foto: "lovable-uploads/Pedro rocha.jpeg",
-      linkedin: ""
+      linkedin: "https://www.linkedin.com/in/pedro-azera-gon%C3%A7alves-da-rocha-19bb00412/"
     },
     {
       nome: "Pietro Maiolino",
