@@ -798,6 +798,62 @@ const Alumni = () => {
 {
   nome: "Rodrigo Valente",
   linkedin: ""
+},
+{
+  nome: "Ana Beatriz Rosa",
+  linkedin: ""
+},
+{
+  nome: "Antonio Trezzi",
+  linkedin: "https://www.linkedin.com/in/ant%C3%B4nio-trezzi-barcinski-4975763bb/"
+},
+{
+  nome: "Beatriz Toledano",
+  linkedin: "https://www.linkedin.com/in/beatriz-toledano-165a6a427/"
+},
+{
+  nome: "Bernardo Barauna",
+  linkedin: "https://www.linkedin.com/in/bernardo-a-barauna/"
+},
+{
+  nome: "Eduardo Hamawy",
+  linkedin: "https://www.linkedin.com/in/eduardo-hamawy-5327693b6/"
+},
+{
+  nome: "Felipe Iglesias",
+  linkedin: "https://www.linkedin.com/in/felipe-iglesias-teixeira-2765a1411/"
+},
+{
+  nome: "Leonardo Szwarcwald",
+  linkedin: "https://www.linkedin.com/in/leonardo-szwarcwald-a09642413/"
+},
+{
+  nome: "Letícia Virgini",
+  linkedin: "https://www.linkedin.com/in/let%C3%ADcia-virgini-b4a803426/"
+},
+{
+  nome: "Maria Clara Torres",
+  linkedin: "https://www.linkedin.com/in/maria-clara-veloso-torres-2997b8426/"
+},
+{
+  nome: "Miguel Pessoa",
+  linkedin: "https://www.linkedin.com/in/miguel-de-vincenzi-pessoa-15392a376/"
+},
+{
+  nome: "Pedro Rocha",
+  linkedin: "https://www.linkedin.com/in/pedro-azera-gon%C3%A7alves-da-rocha-19bb00412/"
+},
+{
+  nome: "Rodrigo Quiroga",
+  linkedin: "https://www.linkedin.com/in/rodrigo-quiroga-6b760b374/"
+},
+{
+  nome: "Sofia Paiva",
+  linkedin: "https://www.linkedin.com/in/sofia-paiva-1946bb373/"
+},
+{
+  nome: "Thomaz Aguiar",
+  linkedin: "https://www.linkedin.com/in/thomaz-aguiar-096040426/"
 }
   ].sort((a, b) => a.nome.localeCompare(b.nome));
 
