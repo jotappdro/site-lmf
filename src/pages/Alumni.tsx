@@ -797,7 +797,7 @@ const Alumni = () => {
 },
 {
   nome: "Rodrigo Valente",
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/rodrigo-botelho-junqueira-valente-a22169403/"
 },
 {
   nome: "Ana Beatriz Rosa",
