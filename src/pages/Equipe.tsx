@@ -116,14 +116,8 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/guilherme-rh-caruso/"
     },
     {
-      nome: "Gustavo Geller",
-      cargo: "Eventos",
-      foto: "lovable-uploads/a55f8812-8aa2-4fa0-a1eb-83e21c4fad18.png",
-      linkedin: "https://www.linkedin.com/in/gustavo-kallmann-geller-861a70226/"
-    },
-    {
       nome: "João Guimarães",
-      cargo: "Eventos",
+      cargo: "Prod. de Conteúdo",
       foto: "lovable-uploads/joao-guimaraes.jpeg",
       linkedin: "https://www.linkedin.com/in/jo%C3%A3o-guimar%C3%A3es-543bb41aa/"
     },
@@ -186,12 +180,6 @@ const Equipe = () => {
       cargo: "Eventos",
       foto: "lovable-uploads/Rodrigo_Quiroga_IMG_2655.PNG",
       linkedin: "https://www.linkedin.com/in/rodrigo-quiroga-6b760b374/"
-    },
-    {
-      nome: "Rodrigo Valente",
-      cargo: "Pessoas",
-      foto: "lovable-uploads/rodrigo-valente.jpeg",
-      linkedin: "https://www.linkedin.com/in/rodrigo-botelho-junqueira-valente-a22169403/"
     },
     {
       nome: "Sofia Paiva",
