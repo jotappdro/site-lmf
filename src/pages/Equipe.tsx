@@ -8,16 +8,16 @@ const Equipe = () => {
   // Removendo a / do início de cada caminho de foto, agora já sei que funciona
   const gestao = [
     {
-      nome: "Pedro Cafasso",
-      cargo: "Presidente",
-      foto: "lovable-uploads/149bfcea-4272-4837-9483-4a38f6e1ed59.png",
-      linkedin: "https://www.linkedin.com/in/pedro-antonio-cafasso-a0b7391bb/"
-    },
-    {
       nome: "Carolina Freitas",
-      cargo: "Vice-Presidente",
+      cargo: "Presidente",
       foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png",
       linkedin: "https://www.linkedin.com/in/carolina-freitas-423863364/"
+    },
+    {
+      nome: "Pedro Cunha",
+      cargo: "Vice-Presidente e Head Equity",
+      foto: "lovable-uploads/pedro-cunha.jpeg",
+      linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
     }
   ];
 
@@ -29,6 +29,12 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/bruna-almeida-a18806349/"
     },
     {
+      nome: "Eric Bittencourt",
+      cargo: "Diretor de Pessoas",
+      foto: "lovable-uploads/eric-bittencourt.jpeg",
+      linkedin: "https://www.linkedin.com/in/eric-bittencourt-grillo-0aa1423a6/"
+    {
+    },
       nome: "Gustavo Fortes",
       cargo: "Diretor de Prod. de Conteúdo e Head Macro",
       foto: "lovable-uploads/gustavo-fortes.jpeg",
@@ -47,16 +53,10 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/henrique-parente-marquez-a71573268/"
     },
     {
-      nome: "Pedro Cunha",
-      cargo: "Diretor de Capacitação e Head Equity Global",
-      foto: "lovable-uploads/pedro-cunha.jpeg",
-      linkedin: "https://www.linkedin.com/in/pedro-menezes-carneiro-da-cunha-826145363/"
-    },
-    {
-      nome: "Pedro Kottler",
-      cargo: "Diretor de Capacitação e Head Equity Brasil",
-      foto: "lovable-uploads/14c9ca73-b9bd-464b-8fe5-b9a7899170f6.png",
-      linkedin: "https://www.linkedin.com/in/pedro-kottler-909589369/"
+      nome: "Kaike Parcias",
+      cargo: "Diretor de Capacitação",
+      foto: "lovable-uploads/kaike-parcias.jpeg",
+      linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
     },
     {
       nome: "Pedro Svartman",
@@ -98,12 +98,6 @@ const Equipe = () => {
       linkedin: "https://www.linkedin.com/in/eduardo-hamawy-5327693b6/"
     },
     {
-      nome: "Eric Bittencourt",
-      cargo: "Pessoas",
-      foto: "lovable-uploads/eric-bittencourt.jpeg",
-      linkedin: "https://www.linkedin.com/in/eric-bittencourt-grillo-0aa1423a6/"
-    },
-    {
       nome: "Felipe Iglesias",
       cargo: "Prod. de Conteúdo",
       foto: "lovable-uploads/Felipe Iglesias Teixeira.jpg",
@@ -126,12 +120,6 @@ const Equipe = () => {
       cargo: "Eventos",
       foto: "lovable-uploads/joao-pessoa.jpeg",
       linkedin: "https://www.linkedin.com/in/jo%C3%A3o-pedro-pessoa-a25337385/"
-    },
-    {
-      nome: "Kaike Parcias",
-      cargo: "Capacitação",
-      foto: "lovable-uploads/kaike-parcias.jpeg",
-      linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
     },
     {
       nome: "Leonardo Szwarcwald",
