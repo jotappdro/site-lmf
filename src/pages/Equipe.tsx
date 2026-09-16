@@ -55,7 +55,7 @@ const Equipe = () => {
     {
       nome: "Kaike Parcias",
       cargo: "Diretor de Capacitação",
-      foto: "lovable-uploads/foto_nova_kaike_parcias.jp",
+      foto: "lovable-uploads/foto_nova_kaike_parcias.jpg",
       linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
     },
     {
