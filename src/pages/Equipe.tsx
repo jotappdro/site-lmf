@@ -10,7 +10,7 @@ const Equipe = () => {
     {
       nome: "Carolina Freitas",
       cargo: "Presidente",
-      foto: "lovable-uploads/d6262ba1-9e62-4f76-b4e3-d14170f36824.png",
+      foto: "lovable-uploads/foto_nova_Carolina_Freitas.jpg",
       linkedin: "https://www.linkedin.com/in/carolina-freitas-423863364/"
     },
     {
@@ -31,10 +31,10 @@ const Equipe = () => {
     {
       nome: "Eric Bittencourt",
       cargo: "Diretor de Pessoas",
-      foto: "lovable-uploads/eric-bittencourt.jpeg",
+      foto: "lovable-uploads/foto_nova_eric_bittencourt.jpg",
       linkedin: "https://www.linkedin.com/in/eric-bittencourt-grillo-0aa1423a6/"
-    {
     },
+    {
       nome: "Gustavo Fortes",
       cargo: "Diretor de Prod. de Conteúdo e Head Macro",
       foto: "lovable-uploads/gustavo-fortes.jpeg",
@@ -55,7 +55,7 @@ const Equipe = () => {
     {
       nome: "Kaike Parcias",
       cargo: "Diretor de Capacitação",
-      foto: "lovable-uploads/kaike-parcias.jpeg",
+      foto: "lovable-uploads/foto_nova_kaike_parcias.jp",
       linkedin: "https://www.linkedin.com/in/kaike-parcias-43122a38b/"
     },
     {
